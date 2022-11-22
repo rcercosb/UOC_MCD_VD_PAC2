@@ -1,0 +1,1481 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="920"
+   height="600"
+   version="1.1"
+   id="svg7199"
+   sodipodi:docname="timeline.svg"
+   inkscape:version="1.2.1 (9c6d41e410, 2022-07-14)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs7203" />
+  <sodipodi:namedview
+     id="namedview7201"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     showgrid="false"
+     inkscape:zoom="1.3152174"
+     inkscape:cx="460"
+     inkscape:cy="300.33058"
+     inkscape:window-width="1920"
+     inkscape:window-height="1009"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg7199" />
+  <rect
+     width="920"
+     height="600"
+     x="0"
+     y="0"
+     fill="#FFFFFF"
+     id="background" />
+  <g
+     transform="translate(120,50)"
+     id="visualization">
+    <g
+       id="axis">
+      <g
+         transform="translate(0,500)"
+         fill="none"
+         font-size="10"
+         font-family="sans-serif"
+         text-anchor="middle"
+         id="g6833">
+        <path
+           class="domain"
+           stroke="currentColor"
+           d="M0.5,6V0.5H630.5V6"
+           id="path6771" />
+        <g
+           class="tick"
+           opacity="1"
+           transform="translate(0.5,0)"
+           id="g6777">
+          <line
+             stroke="currentColor"
+             y2="6"
+             id="line6773" />
+          <text
+             fill="currentColor"
+             y="9"
+             dy="0.71em"
+             id="text6775">1940</text>
+        </g>
+        <g
+           class="tick"
+           opacity="1"
+           transform="translate(70.5,0)"
+           id="g6783">
+          <line
+             stroke="currentColor"
+             y2="6"
+             id="line6779" />
+          <text
+             fill="currentColor"
+             y="9"
+             dy="0.71em"
+             id="text6781">1950</text>
+        </g>
+        <g
+           class="tick"
+           opacity="1"
+           transform="translate(140.5,0)"
+           id="g6789">
+          <line
+             stroke="currentColor"
+             y2="6"
+             id="line6785" />
+          <text
+             fill="currentColor"
+             y="9"
+             dy="0.71em"
+             id="text6787">1960</text>
+        </g>
+        <g
+           class="tick"
+           opacity="1"
+           transform="translate(210.5,0)"
+           id="g6795">
+          <line
+             stroke="currentColor"
+             y2="6"
+             id="line6791" />
+          <text
+             fill="currentColor"
+             y="9"
+             dy="0.71em"
+             id="text6793">1970</text>
+        </g>
+        <g
+           class="tick"
+           opacity="1"
+           transform="translate(280.5,0)"
+           id="g6801">
+          <line
+             stroke="currentColor"
+             y2="6"
+             id="line6797" />
+          <text
+             fill="currentColor"
+             y="9"
+             dy="0.71em"
+             id="text6799">1980</text>
+        </g>
+        <g
+           class="tick"
+           opacity="1"
+           transform="translate(350.5,0)"
+           id="g6807">
+          <line
+             stroke="currentColor"
+             y2="6"
+             id="line6803" />
+          <text
+             fill="currentColor"
+             y="9"
+             dy="0.71em"
+             id="text6805">1990</text>
+        </g>
+        <g
+           class="tick"
+           opacity="1"
+           transform="translate(420.5,0)"
+           id="g6813">
+          <line
+             stroke="currentColor"
+             y2="6"
+             id="line6809" />
+          <text
+             fill="currentColor"
+             y="9"
+             dy="0.71em"
+             id="text6811">2000</text>
+        </g>
+        <g
+           class="tick"
+           opacity="1"
+           transform="translate(490.5,0)"
+           id="g6819">
+          <line
+             stroke="currentColor"
+             y2="6"
+             id="line6815" />
+          <text
+             fill="currentColor"
+             y="9"
+             dy="0.71em"
+             id="text6817">2010</text>
+        </g>
+        <g
+           class="tick"
+           opacity="1"
+           transform="translate(560.5,0)"
+           id="g6825">
+          <line
+             stroke="currentColor"
+             y2="6"
+             id="line6821" />
+          <text
+             fill="currentColor"
+             y="9"
+             dy="0.71em"
+             id="text6823">2020</text>
+        </g>
+        <g
+           class="tick"
+           opacity="1"
+           transform="translate(630.5,0)"
+           id="g6831">
+          <line
+             stroke="currentColor"
+             y2="6"
+             id="line6827" />
+          <text
+             fill="currentColor"
+             y="9"
+             dy="0.71em"
+             id="text6829">2030</text>
+        </g>
+      </g>
+    </g>
+    <g
+       id="viz">
+      <g
+         id="Alcide De Gasperi"
+         transform="translate(0,0)">
+        <text
+           x="-4"
+           y="6.944444444444445"
+           text-anchor="end"
+           dominant-baseline="middle"
+           style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: normal;"
+           id="text6836">Alcide De Gasperi</text>
+        <rect
+           x="46"
+           y="0"
+           width="4"
+           height="13.88888888888889"
+           fill="#ff7f0e"
+           id="rect6838" />
+        <rect
+           x="50"
+           y="0"
+           width="2"
+           height="13.88888888888889"
+           fill="#ff7f0e"
+           id="rect6840" />
+        <rect
+           x="52"
+           y="0"
+           width="7"
+           height="13.88888888888889"
+           fill="#ff7f0e"
+           id="rect6842" />
+        <rect
+           x="59"
+           y="0"
+           width="12"
+           height="13.88888888888889"
+           fill="#ff7f0e"
+           id="rect6844" />
+        <rect
+           x="71"
+           y="0"
+           width="10"
+           height="13.88888888888889"
+           fill="#ff7f0e"
+           id="rect6846" />
+        <rect
+           x="81"
+           y="0"
+           width="14"
+           height="13.88888888888889"
+           fill="#ff7f0e"
+           id="rect6848" />
+        <rect
+           x="95"
+           y="0"
+           width="1"
+           height="13.88888888888889"
+           fill="#ff7f0e"
+           id="rect6850" />
+        <line
+           x1="0"
+           y1="0"
+           x2="630"
+           y2="0"
+           style="stroke: rgb(204, 204, 204);"
+           id="line6852" />
+      </g>
+      <g
+         id="Enrico de Nicola"
+         transform="translate(0,13.88888888888889)">
+        <text
+           x="-4"
+           y="6.944444444444445"
+           text-anchor="end"
+           dominant-baseline="middle"
+           style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: normal;"
+           id="text6855">Enrico de Nicola</text>
+        <rect
+           x="56"
+           y="0"
+           width="3"
+           height="13.88888888888889"
+           fill="#1f77b4"
+           id="rect6857" />
+        <line
+           x1="0"
+           y1="0"
+           x2="630"
+           y2="0"
+           style="stroke: rgb(204, 204, 204);"
+           id="line6859" />
+      </g>
+      <g
+         id="Luigi Einaudi"
+         transform="translate(0,27.77777777777778)">
+        <text
+           x="-4"
+           y="6.944444444444445"
+           text-anchor="end"
+           dominant-baseline="middle"
+           style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: normal;"
+           id="text6862">Luigi Einaudi</text>
+        <rect
+           x="59"
+           y="0"
+           width="48"
+           height="13.88888888888889"
+           fill="#1f77b4"
+           id="rect6864" />
+        <line
+           x1="0"
+           y1="0"
+           x2="630"
+           y2="0"
+           style="stroke: rgb(204, 204, 204);"
+           id="line6866" />
+      </g>
+      <g
+         id="Giuseppe Pella"
+         transform="translate(0,41.66666666666667)">
+        <text
+           x="-4"
+           y="6.944444444444445"
+           text-anchor="end"
+           dominant-baseline="middle"
+           style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: normal;"
+           id="text6869">Giuseppe Pella</text>
+        <rect
+           x="95"
+           y="0"
+           width="3"
+           height="13.88888888888889"
+           fill="#ff7f0e"
+           id="rect6871" />
+        <line
+           x1="0"
+           y1="0"
+           x2="630"
+           y2="0"
+           style="stroke: rgb(204, 204, 204);"
+           id="line6873" />
+      </g>
+      <g
+         id="Amintore Fanfani"
+         transform="translate(0,55.55555555555556)">
+        <text
+           x="-4"
+           y="6.944444444444445"
+           text-anchor="end"
+           dominant-baseline="middle"
+           style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: normal;"
+           id="text6876">Amintore Fanfani</text>
+        <rect
+           x="98"
+           y="0"
+           width="1"
+           height="13.88888888888889"
+           fill="#ff7f0e"
+           id="rect6878" />
+        <rect
+           x="129"
+           y="0"
+           width="5"
+           height="13.88888888888889"
+           fill="#ff7f0e"
+           id="rect6880" />
+        <rect
+           x="144"
+           y="0"
+           width="11"
+           height="13.88888888888889"
+           fill="#ff7f0e"
+           id="rect6882" />
+        <rect
+           x="155"
+           y="0"
+           width="9"
+           height="13.88888888888889"
+           fill="#ff7f0e"
+           id="rect6884" />
+        <rect
+           x="300"
+           y="0"
+           width="5"
+           height="13.88888888888889"
+           fill="#ff7f0e"
+           id="rect6886" />
+        <rect
+           x="331"
+           y="0"
+           width="2"
+           height="13.88888888888889"
+           fill="#ff7f0e"
+           id="rect6888" />
+        <line
+           x1="0"
+           y1="0"
+           x2="630"
+           y2="0"
+           style="stroke: rgb(204, 204, 204);"
+           id="line6890" />
+      </g>
+      <g
+         id="Mario Scelba"
+         transform="translate(0,69.44444444444444)">
+        <text
+           x="-4"
+           y="6.944444444444445"
+           text-anchor="end"
+           dominant-baseline="middle"
+           style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: normal;"
+           id="text6893">Mario Scelba</text>
+        <rect
+           x="99"
+           y="0"
+           width="10"
+           height="13.88888888888889"
+           fill="#ff7f0e"
+           id="rect6895" />
+        <line
+           x1="0"
+           y1="0"
+           x2="630"
+           y2="0"
+           style="stroke: rgb(204, 204, 204);"
+           id="line6897" />
+      </g>
+      <g
+         id="Giovanni Gronchi"
+         transform="translate(0,83.33333333333334)">
+        <text
+           x="-4"
+           y="6.944444444444445"
+           text-anchor="end"
+           dominant-baseline="middle"
+           style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: normal;"
+           id="text6900">Giovanni Gronchi</text>
+        <rect
+           x="107"
+           y="0"
+           width="49"
+           height="13.88888888888889"
+           fill="#1f77b4"
+           id="rect6902" />
+        <line
+           x1="0"
+           y1="0"
+           x2="630"
+           y2="0"
+           style="stroke: rgb(204, 204, 204);"
+           id="line6904" />
+      </g>
+      <g
+         id="Antonio Segni"
+         transform="translate(0,97.22222222222223)">
+        <text
+           x="-4"
+           y="6.944444444444445"
+           text-anchor="end"
+           dominant-baseline="middle"
+           style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: normal;"
+           id="text6907">Antonio Segni</text>
+        <rect
+           x="109"
+           y="0"
+           width="13"
+           height="13.88888888888889"
+           fill="#ff7f0e"
+           id="rect6909" />
+        <rect
+           x="134"
+           y="0"
+           width="8"
+           height="13.88888888888889"
+           fill="#ff7f0e"
+           id="rect6911" />
+        <rect
+           x="156"
+           y="0"
+           width="19"
+           height="13.88888888888889"
+           fill="#1f77b4"
+           id="rect6913" />
+        <line
+           x1="0"
+           y1="0"
+           x2="630"
+           y2="0"
+           style="stroke: rgb(204, 204, 204);"
+           id="line6915" />
+      </g>
+      <g
+         id="Adone Zoli"
+         transform="translate(0,111.11111111111111)">
+        <text
+           x="-4"
+           y="6.944444444444445"
+           text-anchor="end"
+           dominant-baseline="middle"
+           style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: normal;"
+           id="text6918">Adone Zoli</text>
+        <rect
+           x="122"
+           y="0"
+           width="7"
+           height="13.88888888888889"
+           fill="#ff7f0e"
+           id="rect6920" />
+        <line
+           x1="0"
+           y1="0"
+           x2="630"
+           y2="0"
+           style="stroke: rgb(204, 204, 204);"
+           id="line6922" />
+      </g>
+      <g
+         id="Fernando Tambroni"
+         transform="translate(0,125)">
+        <text
+           x="-4"
+           y="6.944444444444445"
+           text-anchor="end"
+           dominant-baseline="middle"
+           style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: normal;"
+           id="text6925">Fernando Tambroni</text>
+        <rect
+           x="142"
+           y="0"
+           width="2"
+           height="13.88888888888889"
+           fill="#ff7f0e"
+           id="rect6927" />
+        <line
+           x1="0"
+           y1="0"
+           x2="630"
+           y2="0"
+           style="stroke: rgb(204, 204, 204);"
+           id="line6929" />
+      </g>
+      <g
+         id="Giovanni Leone"
+         transform="translate(0,138.88888888888889)">
+        <text
+           x="-4"
+           y="6.944444444444445"
+           text-anchor="end"
+           dominant-baseline="middle"
+           style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: normal;"
+           id="text6932">Giovanni Leone</text>
+        <rect
+           x="164"
+           y="0"
+           width="3"
+           height="13.88888888888889"
+           fill="#ff7f0e"
+           id="rect6934" />
+        <rect
+           x="199"
+           y="0"
+           width="4"
+           height="13.88888888888889"
+           fill="#ff7f0e"
+           id="rect6936" />
+        <rect
+           x="224"
+           y="0"
+           width="45"
+           height="13.88888888888889"
+           fill="#1f77b4"
+           id="rect6938" />
+        <line
+           x1="0"
+           y1="0"
+           x2="630"
+           y2="0"
+           style="stroke: rgb(204, 204, 204);"
+           id="line6940" />
+      </g>
+      <g
+         id="Aldo Moro"
+         transform="translate(0,152.77777777777777)">
+        <text
+           x="-4"
+           y="6.944444444444445"
+           text-anchor="end"
+           dominant-baseline="middle"
+           style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: normal;"
+           id="text6943">Aldo Moro</text>
+        <rect
+           x="167"
+           y="0"
+           width="5"
+           height="13.88888888888889"
+           fill="#ff7f0e"
+           id="rect6945" />
+        <rect
+           x="172"
+           y="0"
+           width="11"
+           height="13.88888888888889"
+           fill="#ff7f0e"
+           id="rect6947" />
+        <rect
+           x="183"
+           y="0"
+           width="16"
+           height="13.88888888888889"
+           fill="#ff7f0e"
+           id="rect6949" />
+        <rect
+           x="244"
+           y="0"
+           width="9"
+           height="13.88888888888889"
+           fill="#ff7f0e"
+           id="rect6951" />
+        <rect
+           x="253"
+           y="0"
+           width="3"
+           height="13.88888888888889"
+           fill="#ff7f0e"
+           id="rect6953" />
+        <line
+           x1="0"
+           y1="0"
+           x2="630"
+           y2="0"
+           style="stroke: rgb(204, 204, 204);"
+           id="line6955" />
+      </g>
+      <g
+         id="Giuseppe Saragat"
+         transform="translate(0,166.66666666666669)">
+        <text
+           x="-4"
+           y="6.944444444444445"
+           text-anchor="end"
+           dominant-baseline="middle"
+           style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: normal;"
+           id="text6958">Giuseppe Saragat</text>
+        <rect
+           x="175"
+           y="0"
+           width="49"
+           height="13.88888888888889"
+           fill="#1f77b4"
+           id="rect6960" />
+        <line
+           x1="0"
+           y1="0"
+           x2="630"
+           y2="0"
+           style="stroke: rgb(204, 204, 204);"
+           id="line6962" />
+      </g>
+      <g
+         id="Mariano Rumor"
+         transform="translate(0,180.55555555555557)">
+        <text
+           x="-4"
+           y="6.944444444444445"
+           text-anchor="end"
+           dominant-baseline="middle"
+           style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: normal;"
+           id="text6965">Mariano Rumor</text>
+        <rect
+           x="203"
+           y="0"
+           width="4"
+           height="13.88888888888889"
+           fill="#ff7f0e"
+           id="rect6967" />
+        <rect
+           x="207"
+           y="0"
+           width="5"
+           height="13.88888888888889"
+           fill="#ff7f0e"
+           id="rect6969" />
+        <rect
+           x="212"
+           y="0"
+           width="2"
+           height="13.88888888888889"
+           fill="#ff7f0e"
+           id="rect6971" />
+        <rect
+           x="235"
+           y="0"
+           width="4"
+           height="13.88888888888889"
+           fill="#ff7f0e"
+           id="rect6973" />
+        <rect
+           x="239"
+           y="0"
+           width="5"
+           height="13.88888888888889"
+           fill="#ff7f0e"
+           id="rect6975" />
+        <line
+           x1="0"
+           y1="0"
+           x2="630"
+           y2="0"
+           style="stroke: rgb(204, 204, 204);"
+           id="line6977" />
+      </g>
+      <g
+         id="Emilio Colombo"
+         transform="translate(0,194.44444444444446)">
+        <text
+           x="-4"
+           y="6.944444444444445"
+           text-anchor="end"
+           dominant-baseline="middle"
+           style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: normal;"
+           id="text6980">Emilio Colombo</text>
+        <rect
+           x="214"
+           y="0"
+           width="11"
+           height="13.88888888888889"
+           fill="#ff7f0e"
+           id="rect6982" />
+        <line
+           x1="0"
+           y1="0"
+           x2="630"
+           y2="0"
+           style="stroke: rgb(204, 204, 204);"
+           id="line6984" />
+      </g>
+      <g
+         id="Giulio Andreotti"
+         transform="translate(0,208.33333333333334)">
+        <text
+           x="-4"
+           y="6.944444444444445"
+           text-anchor="end"
+           dominant-baseline="middle"
+           style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: normal;"
+           id="text6987">Giulio Andreotti</text>
+        <rect
+           x="225"
+           y="0"
+           width="9"
+           height="13.88888888888889"
+           fill="#ff7f0e"
+           id="rect6989" />
+        <rect
+           x="234"
+           y="0"
+           width="1"
+           height="13.88888888888889"
+           fill="#ff7f0e"
+           id="rect6991" />
+        <rect
+           x="256"
+           y="0"
+           width="11"
+           height="13.88888888888889"
+           fill="#ff7f0e"
+           id="rect6993" />
+        <rect
+           x="267"
+           y="0"
+           width="7"
+           height="13.88888888888889"
+           fill="#ff7f0e"
+           id="rect6995" />
+        <rect
+           x="274"
+           y="0"
+           width="3"
+           height="13.88888888888889"
+           fill="#ff7f0e"
+           id="rect6997" />
+        <rect
+           x="347"
+           y="0"
+           width="12"
+           height="13.88888888888889"
+           fill="#ff7f0e"
+           id="rect6999" />
+        <rect
+           x="359"
+           y="0"
+           width="8"
+           height="13.88888888888889"
+           fill="#ff7f0e"
+           id="rect7001" />
+        <line
+           x1="0"
+           y1="0"
+           x2="630"
+           y2="0"
+           style="stroke: rgb(204, 204, 204);"
+           id="line7003" />
+      </g>
+      <g
+         id="Sandro Pertini"
+         transform="translate(0,222.22222222222223)">
+        <text
+           x="-4"
+           y="6.944444444444445"
+           text-anchor="end"
+           dominant-baseline="middle"
+           style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: normal;"
+           id="text7006">Sandro Pertini</text>
+        <rect
+           x="270"
+           y="0"
+           width="48"
+           height="13.88888888888889"
+           fill="#1f77b4"
+           id="rect7008" />
+        <line
+           x1="0"
+           y1="0"
+           x2="630"
+           y2="0"
+           style="stroke: rgb(204, 204, 204);"
+           id="line7010" />
+      </g>
+      <g
+         id="Francesco Cossiga"
+         transform="translate(0,236.11111111111111)">
+        <text
+           x="-4"
+           y="6.944444444444445"
+           text-anchor="end"
+           dominant-baseline="middle"
+           style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: normal;"
+           id="text7013">Francesco Cossiga</text>
+        <rect
+           x="277"
+           y="0"
+           width="5"
+           height="13.88888888888889"
+           fill="#ff7f0e"
+           id="rect7015" />
+        <rect
+           x="282"
+           y="0"
+           width="4"
+           height="13.88888888888889"
+           fill="#ff7f0e"
+           id="rect7017" />
+        <rect
+           x="319"
+           y="0"
+           width="47"
+           height="13.88888888888889"
+           fill="#1f77b4"
+           id="rect7019" />
+        <line
+           x1="0"
+           y1="0"
+           x2="630"
+           y2="0"
+           style="stroke: rgb(204, 204, 204);"
+           id="line7021" />
+      </g>
+      <g
+         id="Arnaldo Forlani"
+         transform="translate(0,250)">
+        <text
+           x="-4"
+           y="6.944444444444445"
+           text-anchor="end"
+           dominant-baseline="middle"
+           style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: normal;"
+           id="text7024">Arnaldo Forlani</text>
+        <rect
+           x="286"
+           y="0"
+           width="4"
+           height="13.88888888888889"
+           fill="#ff7f0e"
+           id="rect7026" />
+        <line
+           x1="0"
+           y1="0"
+           x2="630"
+           y2="0"
+           style="stroke: rgb(204, 204, 204);"
+           id="line7028" />
+      </g>
+      <g
+         id="Giovanni Spadolini"
+         transform="translate(0,263.8888888888889)">
+        <text
+           x="-4"
+           y="6.944444444444445"
+           text-anchor="end"
+           dominant-baseline="middle"
+           style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: normal;"
+           id="text7031">Giovanni Spadolini</text>
+        <rect
+           x="290"
+           y="0"
+           width="8"
+           height="13.88888888888889"
+           fill="#ff7f0e"
+           id="rect7033" />
+        <rect
+           x="298"
+           y="0"
+           width="2"
+           height="13.88888888888889"
+           fill="#ff7f0e"
+           id="rect7035" />
+        <line
+           x1="0"
+           y1="0"
+           x2="630"
+           y2="0"
+           style="stroke: rgb(204, 204, 204);"
+           id="line7037" />
+      </g>
+      <g
+         id="Bettino Craxi"
+         transform="translate(0,277.77777777777777)">
+        <text
+           x="-4"
+           y="6.944444444444445"
+           text-anchor="end"
+           dominant-baseline="middle"
+           style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: normal;"
+           id="text7040">Bettino Craxi</text>
+        <rect
+           x="305"
+           y="0"
+           width="21"
+           height="13.88888888888889"
+           fill="#ff7f0e"
+           id="rect7042" />
+        <rect
+           x="326"
+           y="0"
+           width="5"
+           height="13.88888888888889"
+           fill="#ff7f0e"
+           id="rect7044" />
+        <line
+           x1="0"
+           y1="0"
+           x2="630"
+           y2="0"
+           style="stroke: rgb(204, 204, 204);"
+           id="line7046" />
+      </g>
+      <g
+         id="Giovanni Goria"
+         transform="translate(0,291.6666666666667)">
+        <text
+           x="-4"
+           y="6.944444444444445"
+           text-anchor="end"
+           dominant-baseline="middle"
+           style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: normal;"
+           id="text7049">Giovanni Goria</text>
+        <rect
+           x="333"
+           y="0"
+           width="5"
+           height="13.88888888888889"
+           fill="#ff7f0e"
+           id="rect7051" />
+        <line
+           x1="0"
+           y1="0"
+           x2="630"
+           y2="0"
+           style="stroke: rgb(204, 204, 204);"
+           id="line7053" />
+      </g>
+      <g
+         id="Ciriaco De Mita"
+         transform="translate(0,305.55555555555554)">
+        <text
+           x="-4"
+           y="6.944444444444445"
+           text-anchor="end"
+           dominant-baseline="middle"
+           style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: normal;"
+           id="text7056">Ciriaco De Mita</text>
+        <rect
+           x="338"
+           y="0"
+           width="9"
+           height="13.88888888888889"
+           fill="#ff7f0e"
+           id="rect7058" />
+        <line
+           x1="0"
+           y1="0"
+           x2="630"
+           y2="0"
+           style="stroke: rgb(204, 204, 204);"
+           id="line7060" />
+      </g>
+      <g
+         id="Oscar Luigi Scalfaro"
+         transform="translate(0,319.44444444444446)">
+        <text
+           x="-4"
+           y="6.944444444444445"
+           text-anchor="end"
+           dominant-baseline="middle"
+           style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: normal;"
+           id="text7063">Oscar Luigi Scalfaro</text>
+        <rect
+           x="367"
+           y="0"
+           width="49"
+           height="13.88888888888889"
+           fill="#1f77b4"
+           id="rect7065" />
+        <line
+           x1="0"
+           y1="0"
+           x2="630"
+           y2="0"
+           style="stroke: rgb(204, 204, 204);"
+           id="line7067" />
+      </g>
+      <g
+         id="Giuliano Amato"
+         transform="translate(0,333.33333333333337)">
+        <text
+           x="-4"
+           y="6.944444444444445"
+           text-anchor="end"
+           dominant-baseline="middle"
+           style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: normal;"
+           id="text7070">Giuliano Amato</text>
+        <rect
+           x="367"
+           y="0"
+           width="6"
+           height="13.88888888888889"
+           fill="#ff7f0e"
+           id="rect7072" />
+        <rect
+           x="422"
+           y="0"
+           width="8"
+           height="13.88888888888889"
+           fill="#ff7f0e"
+           id="rect7074" />
+        <line
+           x1="0"
+           y1="0"
+           x2="630"
+           y2="0"
+           style="stroke: rgb(204, 204, 204);"
+           id="line7076" />
+      </g>
+      <g
+         id="Carlo Azeglio Ciampi"
+         transform="translate(0,347.22222222222223)">
+        <text
+           x="-4"
+           y="6.944444444444445"
+           text-anchor="end"
+           dominant-baseline="middle"
+           style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: normal;"
+           id="text7079">Carlo Azeglio Ciampi</text>
+        <rect
+           x="373"
+           y="0"
+           width="7"
+           height="13.88888888888889"
+           fill="#ff7f0e"
+           id="rect7081" />
+        <rect
+           x="416"
+           y="0"
+           width="49"
+           height="13.88888888888889"
+           fill="#1f77b4"
+           id="rect7083" />
+        <line
+           x1="0"
+           y1="0"
+           x2="630"
+           y2="0"
+           style="stroke: rgb(204, 204, 204);"
+           id="line7085" />
+      </g>
+      <g
+         id="Silvio Berlusconi"
+         transform="translate(0,361.11111111111114)">
+        <text
+           x="-4"
+           y="6.944444444444445"
+           text-anchor="end"
+           dominant-baseline="middle"
+           style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: normal;"
+           id="text7088">Silvio Berlusconi</text>
+        <rect
+           x="380"
+           y="0"
+           width="5"
+           height="13.88888888888889"
+           fill="#ff7f0e"
+           id="rect7090" />
+        <rect
+           x="430"
+           y="0"
+           width="27"
+           height="13.88888888888889"
+           fill="#ff7f0e"
+           id="rect7092" />
+        <rect
+           x="457"
+           y="0"
+           width="8"
+           height="13.88888888888889"
+           fill="#ff7f0e"
+           id="rect7094" />
+        <rect
+           x="478"
+           y="0"
+           width="25"
+           height="13.88888888888889"
+           fill="#ff7f0e"
+           id="rect7096" />
+        <line
+           x1="0"
+           y1="0"
+           x2="630"
+           y2="0"
+           style="stroke: rgb(204, 204, 204);"
+           id="line7098" />
+      </g>
+      <g
+         id="Lamberto Dini"
+         transform="translate(0,375)">
+        <text
+           x="-4"
+           y="6.944444444444445"
+           text-anchor="end"
+           dominant-baseline="middle"
+           style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: normal;"
+           id="text7101">Lamberto Dini</text>
+        <rect
+           x="385"
+           y="0"
+           width="10"
+           height="13.88888888888889"
+           fill="#ff7f0e"
+           id="rect7103" />
+        <line
+           x1="0"
+           y1="0"
+           x2="630"
+           y2="0"
+           style="stroke: rgb(204, 204, 204);"
+           id="line7105" />
+      </g>
+      <g
+         id="Romano Prodi"
+         transform="translate(0,388.8888888888889)">
+        <text
+           x="-4"
+           y="6.944444444444445"
+           text-anchor="end"
+           dominant-baseline="middle"
+           style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: normal;"
+           id="text7108">Romano Prodi</text>
+        <rect
+           x="395"
+           y="0"
+           width="17"
+           height="13.88888888888889"
+           fill="#ff7f0e"
+           id="rect7110" />
+        <rect
+           x="465"
+           y="0"
+           width="13"
+           height="13.88888888888889"
+           fill="#ff7f0e"
+           id="rect7112" />
+        <line
+           x1="0"
+           y1="0"
+           x2="630"
+           y2="0"
+           style="stroke: rgb(204, 204, 204);"
+           id="line7114" />
+      </g>
+      <g
+         id="Massimo D'Alema"
+         transform="translate(0,402.77777777777777)">
+        <text
+           x="-4"
+           y="6.944444444444445"
+           text-anchor="end"
+           dominant-baseline="middle"
+           style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: normal;"
+           id="text7117">Massimo D'Alema</text>
+        <rect
+           x="412"
+           y="0"
+           width="8"
+           height="13.88888888888889"
+           fill="#ff7f0e"
+           id="rect7119" />
+        <rect
+           x="420"
+           y="0"
+           width="2"
+           height="13.88888888888889"
+           fill="#ff7f0e"
+           id="rect7121" />
+        <line
+           x1="0"
+           y1="0"
+           x2="630"
+           y2="0"
+           style="stroke: rgb(204, 204, 204);"
+           id="line7123" />
+      </g>
+      <g
+         id="Giorgio Napolitano"
+         transform="translate(0,416.6666666666667)">
+        <text
+           x="-4"
+           y="6.944444444444445"
+           text-anchor="end"
+           dominant-baseline="middle"
+           style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: normal;"
+           id="text7126">Giorgio Napolitano</text>
+        <rect
+           x="465"
+           y="0"
+           width="60"
+           height="13.88888888888889"
+           fill="#1f77b4"
+           id="rect7128" />
+        <line
+           x1="0"
+           y1="0"
+           x2="630"
+           y2="0"
+           style="stroke: rgb(204, 204, 204);"
+           id="line7130" />
+      </g>
+      <g
+         id="Mario Monti"
+         transform="translate(0,430.55555555555554)">
+        <text
+           x="-4"
+           y="6.944444444444445"
+           text-anchor="end"
+           dominant-baseline="middle"
+           style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: normal;"
+           id="text7133">Mario Monti</text>
+        <rect
+           x="503"
+           y="0"
+           width="10"
+           height="13.88888888888889"
+           fill="#ff7f0e"
+           id="rect7135" />
+        <line
+           x1="0"
+           y1="0"
+           x2="630"
+           y2="0"
+           style="stroke: rgb(204, 204, 204);"
+           id="line7137" />
+      </g>
+      <g
+         id="Enrico Letta"
+         transform="translate(0,444.44444444444446)">
+        <text
+           x="-4"
+           y="6.944444444444445"
+           text-anchor="end"
+           dominant-baseline="middle"
+           style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: normal;"
+           id="text7140">Enrico Letta</text>
+        <rect
+           x="513"
+           y="0"
+           width="6"
+           height="13.88888888888889"
+           fill="#ff7f0e"
+           id="rect7142" />
+        <line
+           x1="0"
+           y1="0"
+           x2="630"
+           y2="0"
+           style="stroke: rgb(204, 204, 204);"
+           id="line7144" />
+      </g>
+      <g
+         id="Matteo Renzi"
+         transform="translate(0,458.33333333333337)">
+        <text
+           x="-4"
+           y="6.944444444444445"
+           text-anchor="end"
+           dominant-baseline="middle"
+           style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: normal;"
+           id="text7147">Matteo Renzi</text>
+        <rect
+           x="519"
+           y="0"
+           width="20"
+           height="13.88888888888889"
+           fill="#ff7f0e"
+           id="rect7149" />
+        <line
+           x1="0"
+           y1="0"
+           x2="630"
+           y2="0"
+           style="stroke: rgb(204, 204, 204);"
+           id="line7151" />
+      </g>
+      <g
+         id="Paolo Gentiloni"
+         transform="translate(0,472.22222222222223)">
+        <text
+           x="-4"
+           y="6.944444444444445"
+           text-anchor="end"
+           dominant-baseline="middle"
+           style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: normal;"
+           id="text7154">Paolo Gentiloni</text>
+        <rect
+           x="539"
+           y="0"
+           width="10"
+           height="13.88888888888889"
+           fill="#ff7f0e"
+           id="rect7156" />
+        <line
+           x1="0"
+           y1="0"
+           x2="630"
+           y2="0"
+           style="stroke: rgb(204, 204, 204);"
+           id="line7158" />
+      </g>
+      <g
+         id="Giuseppe Conte"
+         transform="translate(0,486.11111111111114)">
+        <text
+           x="-4"
+           y="6.944444444444445"
+           text-anchor="end"
+           dominant-baseline="middle"
+           style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: normal;"
+           id="text7161">Giuseppe Conte</text>
+        <rect
+           x="549"
+           y="0"
+           width="9"
+           height="13.88888888888889"
+           fill="#ff7f0e"
+           id="rect7163" />
+        <rect
+           x="558"
+           y="0"
+           width="10"
+           height="13.88888888888889"
+           fill="#ff7f0e"
+           id="rect7165" />
+        <line
+           x1="0"
+           y1="0"
+           x2="630"
+           y2="0"
+           style="stroke: rgb(204, 204, 204);"
+           id="line7167" />
+      </g>
+    </g>
+  </g>
+  <g
+     id="legend"
+     transform="translate(800,50)">
+    <g
+       transform="translate(5,0)"
+       id="g7196">
+      <g
+         class="legendColor"
+         transform="translate(0,0)"
+         id="g7194">
+        <g
+           class="legendCells"
+           transform="translate(0,16)"
+           id="g7188">
+          <g
+             class="cell"
+             transform="translate(0, 0)"
+             id="g7178">
+            <rect
+               class="swatch"
+               height="15"
+               width="15"
+               style="fill: rgb(31, 119, 180);"
+               id="rect7172" />
+            <text
+               class="label"
+               transform="translate( 20, 12.5)"
+               font-family="&quot;Arial&quot;, sans-serif"
+               font-size="10px"
+               id="text7176"><tspan
+                 x="0"
+                 dy="0em"
+                 id="tspan7174">President</tspan></text>
+          </g>
+          <g
+             class="cell"
+             transform="translate(0, 21)"
+             id="g7186">
+            <rect
+               class="swatch"
+               height="15"
+               width="15"
+               style="fill: rgb(255, 127, 14);"
+               id="rect7180" />
+            <text
+               class="label"
+               transform="translate( 20, 12.5)"
+               font-family="&quot;Arial&quot;, sans-serif"
+               font-size="10px"
+               id="text7184"><tspan
+                 x="0"
+                 dy="0em"
+                 id="tspan7182">Prime minister</tspan></text>
+          </g>
+        </g>
+        <text
+           class="legendTitle"
+           font-family="&quot;Arial&quot;, sans-serif"
+           font-size="12px"
+           font-weight="bold"
+           id="text7192"><tspan
+             x="0"
+             dy="0em"
+             id="tspan7190">Role</tspan></text>
+      </g>
+    </g>
+  </g>
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-weight:normal;font-size:10.6667px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none"
+     x="22.535606"
+     y="590.7121"
+     id="text1581"><tspan
+       sodipodi:role="line"
+       id="tspan1579"
+       x="22.535606"
+       y="590.7121"
+       style="font-size:10.6667px"><tspan
+   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:10.6667px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold'"
+   id="tspan1633">DADES:</tspan> Italian PMs and Presidents [https://app.rawgraphs.io/] </tspan></text>
+</svg>
