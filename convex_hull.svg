@@ -1,0 +1,3120 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="1005"
+   height="600"
+   version="1.1"
+   id="svg6552"
+   sodipodi:docname="convex_hull.svg"
+   inkscape:version="1.2.1 (9c6d41e410, 2022-07-14)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs6556" />
+  <sodipodi:namedview
+     id="namedview6554"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     showgrid="false"
+     inkscape:zoom="1.200995"
+     inkscape:cx="502.08368"
+     inkscape:cy="299.75145"
+     inkscape:window-width="1920"
+     inkscape:window-height="1009"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg6552" />
+  <rect
+     width="1005"
+     height="600"
+     x="0"
+     y="0"
+     fill="#FFFFFF"
+     id="background" />
+  <g
+     transform="translate(40,30)"
+     id="visualization">
+    <g
+       id="viz">
+      <g
+         class="hulls"
+         id="g5555">
+        <path
+           d="M344,83L325,0L230,63L115,167L57,292L96,438L287,188L325,125Z"
+           fill="#1f77b4"
+           stroke="#1f77b4"
+           stroke-width="10"
+           stroke-linejoin="round"
+           opacity="0.5"
+           id="path5451" />
+        <g
+           id="g5553">
+          <circle
+             cx="210"
+             cy="188"
+             fill="#1f77b4"
+             r="3"
+             id="circle5453" />
+          <circle
+             cx="172"
+             cy="292"
+             fill="#1f77b4"
+             r="3"
+             id="circle5455" />
+          <circle
+             cx="134"
+             cy="250"
+             fill="#1f77b4"
+             r="3"
+             id="circle5457" />
+          <circle
+             cx="115"
+             cy="271"
+             fill="#1f77b4"
+             r="3"
+             id="circle5459" />
+          <circle
+             cx="191"
+             cy="167"
+             fill="#1f77b4"
+             r="3"
+             id="circle5461" />
+          <circle
+             cx="268"
+             cy="104"
+             fill="#1f77b4"
+             r="3"
+             id="circle5463" />
+          <circle
+             cx="115"
+             cy="208"
+             fill="#1f77b4"
+             r="3"
+             id="circle5465" />
+          <circle
+             cx="191"
+             cy="208"
+             fill="#1f77b4"
+             r="3"
+             id="circle5467" />
+          <circle
+             cx="77"
+             cy="313"
+             fill="#1f77b4"
+             r="3"
+             id="circle5469" />
+          <circle
+             cx="172"
+             cy="271"
+             fill="#1f77b4"
+             r="3"
+             id="circle5471" />
+          <circle
+             cx="268"
+             cy="146"
+             fill="#1f77b4"
+             r="3"
+             id="circle5473" />
+          <circle
+             cx="153"
+             cy="208"
+             fill="#1f77b4"
+             r="3"
+             id="circle5475" />
+          <circle
+             cx="153"
+             cy="292"
+             fill="#1f77b4"
+             r="3"
+             id="circle5477" />
+          <circle
+             cx="57"
+             cy="292"
+             fill="#1f77b4"
+             r="3"
+             id="circle5479" />
+          <circle
+             cx="344"
+             cy="83"
+             fill="#1f77b4"
+             r="3"
+             id="circle5481" />
+          <circle
+             cx="325"
+             cy="0"
+             fill="#1f77b4"
+             r="3"
+             id="circle5483" />
+          <circle
+             cx="268"
+             cy="104"
+             fill="#1f77b4"
+             r="3"
+             id="circle5485" />
+          <circle
+             cx="210"
+             cy="188"
+             fill="#1f77b4"
+             r="3"
+             id="circle5487" />
+          <circle
+             cx="325"
+             cy="125"
+             fill="#1f77b4"
+             r="3"
+             id="circle5489" />
+          <circle
+             cx="210"
+             cy="125"
+             fill="#1f77b4"
+             r="3"
+             id="circle5491" />
+          <circle
+             cx="268"
+             cy="208"
+             fill="#1f77b4"
+             r="3"
+             id="circle5493" />
+          <circle
+             cx="210"
+             cy="146"
+             fill="#1f77b4"
+             r="3"
+             id="circle5495" />
+          <circle
+             cx="115"
+             cy="167"
+             fill="#1f77b4"
+             r="3"
+             id="circle5497" />
+          <circle
+             cx="210"
+             cy="229"
+             fill="#1f77b4"
+             r="3"
+             id="circle5499" />
+          <circle
+             cx="153"
+             cy="208"
+             fill="#1f77b4"
+             r="3"
+             id="circle5501" />
+          <circle
+             cx="191"
+             cy="292"
+             fill="#1f77b4"
+             r="3"
+             id="circle5503" />
+          <circle
+             cx="191"
+             cy="208"
+             fill="#1f77b4"
+             r="3"
+             id="circle5505" />
+          <circle
+             cx="230"
+             cy="188"
+             fill="#1f77b4"
+             r="3"
+             id="circle5507" />
+          <circle
+             cx="230"
+             cy="208"
+             fill="#1f77b4"
+             r="3"
+             id="circle5509" />
+          <circle
+             cx="134"
+             cy="250"
+             fill="#1f77b4"
+             r="3"
+             id="circle5511" />
+          <circle
+             cx="153"
+             cy="271"
+             fill="#1f77b4"
+             r="3"
+             id="circle5513" />
+          <circle
+             cx="268"
+             cy="208"
+             fill="#1f77b4"
+             r="3"
+             id="circle5515" />
+          <circle
+             cx="230"
+             cy="63"
+             fill="#1f77b4"
+             r="3"
+             id="circle5517" />
+          <circle
+             cx="287"
+             cy="42"
+             fill="#1f77b4"
+             r="3"
+             id="circle5519" />
+          <circle
+             cx="172"
+             cy="271"
+             fill="#1f77b4"
+             r="3"
+             id="circle5521" />
+          <circle
+             cx="191"
+             cy="250"
+             fill="#1f77b4"
+             r="3"
+             id="circle5523" />
+          <circle
+             cx="287"
+             cy="188"
+             fill="#1f77b4"
+             r="3"
+             id="circle5525" />
+          <circle
+             cx="172"
+             cy="271"
+             fill="#1f77b4"
+             r="3"
+             id="circle5527" />
+          <circle
+             cx="77"
+             cy="292"
+             fill="#1f77b4"
+             r="3"
+             id="circle5529" />
+          <circle
+             cx="210"
+             cy="208"
+             fill="#1f77b4"
+             r="3"
+             id="circle5531" />
+          <circle
+             cx="191"
+             cy="188"
+             fill="#1f77b4"
+             r="3"
+             id="circle5533" />
+          <circle
+             cx="96"
+             cy="438"
+             fill="#1f77b4"
+             r="3"
+             id="circle5535" />
+          <circle
+             cx="77"
+             cy="250"
+             fill="#1f77b4"
+             r="3"
+             id="circle5537" />
+          <circle
+             cx="191"
+             cy="188"
+             fill="#1f77b4"
+             r="3"
+             id="circle5539" />
+          <circle
+             cx="210"
+             cy="125"
+             fill="#1f77b4"
+             r="3"
+             id="circle5541" />
+          <circle
+             cx="153"
+             cy="292"
+             fill="#1f77b4"
+             r="3"
+             id="circle5543" />
+          <circle
+             cx="210"
+             cy="125"
+             fill="#1f77b4"
+             r="3"
+             id="circle5545" />
+          <circle
+             cx="115"
+             cy="250"
+             fill="#1f77b4"
+             r="3"
+             id="circle5547" />
+          <circle
+             cx="249"
+             cy="146"
+             fill="#1f77b4"
+             r="3"
+             id="circle5549" />
+          <circle
+             cx="191"
+             cy="229"
+             fill="#1f77b4"
+             r="3"
+             id="circle5551" />
+        </g>
+      </g>
+      <g
+         class="hulls"
+         id="g5661">
+        <path
+           d="M574,250L383,208L268,292L172,417L191,500L421,458L440,438L536,333Z"
+           fill="#ff7f0e"
+           stroke="#ff7f0e"
+           stroke-width="10"
+           stroke-linejoin="round"
+           opacity="0.5"
+           id="path5557" />
+        <g
+           id="g5659">
+          <circle
+             cx="574"
+             cy="250"
+             fill="#ff7f0e"
+             r="3"
+             id="circle5559" />
+          <circle
+             cx="459"
+             cy="250"
+             fill="#ff7f0e"
+             r="3"
+             id="circle5561" />
+          <circle
+             cx="555"
+             cy="271"
+             fill="#ff7f0e"
+             r="3"
+             id="circle5563" />
+          <circle
+             cx="287"
+             cy="438"
+             fill="#ff7f0e"
+             r="3"
+             id="circle5565" />
+          <circle
+             cx="478"
+             cy="333"
+             fill="#ff7f0e"
+             r="3"
+             id="circle5567" />
+          <circle
+             cx="325"
+             cy="333"
+             fill="#ff7f0e"
+             r="3"
+             id="circle5569" />
+          <circle
+             cx="440"
+             cy="229"
+             fill="#ff7f0e"
+             r="3"
+             id="circle5571" />
+          <circle
+             cx="172"
+             cy="417"
+             fill="#ff7f0e"
+             r="3"
+             id="circle5573" />
+          <circle
+             cx="497"
+             cy="313"
+             fill="#ff7f0e"
+             r="3"
+             id="circle5575" />
+          <circle
+             cx="230"
+             cy="354"
+             fill="#ff7f0e"
+             r="3"
+             id="circle5577" />
+          <circle
+             cx="191"
+             cy="500"
+             fill="#ff7f0e"
+             r="3"
+             id="circle5579" />
+          <circle
+             cx="363"
+             cy="292"
+             fill="#ff7f0e"
+             r="3"
+             id="circle5581" />
+          <circle
+             cx="383"
+             cy="458"
+             fill="#ff7f0e"
+             r="3"
+             id="circle5583" />
+          <circle
+             cx="402"
+             cy="313"
+             fill="#ff7f0e"
+             r="3"
+             id="circle5585" />
+          <circle
+             cx="306"
+             cy="313"
+             fill="#ff7f0e"
+             r="3"
+             id="circle5587" />
+          <circle
+             cx="516"
+             cy="271"
+             fill="#ff7f0e"
+             r="3"
+             id="circle5589" />
+          <circle
+             cx="306"
+             cy="292"
+             fill="#ff7f0e"
+             r="3"
+             id="circle5591" />
+          <circle
+             cx="344"
+             cy="354"
+             fill="#ff7f0e"
+             r="3"
+             id="circle5593" />
+          <circle
+             cx="421"
+             cy="458"
+             fill="#ff7f0e"
+             r="3"
+             id="circle5595" />
+          <circle
+             cx="306"
+             cy="396"
+             fill="#ff7f0e"
+             r="3"
+             id="circle5597" />
+          <circle
+             cx="363"
+             cy="250"
+             fill="#ff7f0e"
+             r="3"
+             id="circle5599" />
+          <circle
+             cx="402"
+             cy="333"
+             fill="#ff7f0e"
+             r="3"
+             id="circle5601" />
+          <circle
+             cx="440"
+             cy="396"
+             fill="#ff7f0e"
+             r="3"
+             id="circle5603" />
+          <circle
+             cx="402"
+             cy="333"
+             fill="#ff7f0e"
+             r="3"
+             id="circle5605" />
+          <circle
+             cx="459"
+             cy="313"
+             fill="#ff7f0e"
+             r="3"
+             id="circle5607" />
+          <circle
+             cx="497"
+             cy="292"
+             fill="#ff7f0e"
+             r="3"
+             id="circle5609" />
+          <circle
+             cx="536"
+             cy="333"
+             fill="#ff7f0e"
+             r="3"
+             id="circle5611" />
+          <circle
+             cx="516"
+             cy="292"
+             fill="#ff7f0e"
+             r="3"
+             id="circle5613" />
+          <circle
+             cx="383"
+             cy="313"
+             fill="#ff7f0e"
+             r="3"
+             id="circle5615" />
+          <circle
+             cx="325"
+             cy="375"
+             fill="#ff7f0e"
+             r="3"
+             id="circle5617" />
+          <circle
+             cx="287"
+             cy="417"
+             fill="#ff7f0e"
+             r="3"
+             id="circle5619" />
+          <circle
+             cx="287"
+             cy="417"
+             fill="#ff7f0e"
+             r="3"
+             id="circle5621" />
+          <circle
+             cx="344"
+             cy="354"
+             fill="#ff7f0e"
+             r="3"
+             id="circle5623" />
+          <circle
+             cx="383"
+             cy="354"
+             fill="#ff7f0e"
+             r="3"
+             id="circle5625" />
+          <circle
+             cx="268"
+             cy="292"
+             fill="#ff7f0e"
+             r="3"
+             id="circle5627" />
+          <circle
+             cx="383"
+             cy="208"
+             fill="#ff7f0e"
+             r="3"
+             id="circle5629" />
+          <circle
+             cx="516"
+             cy="271"
+             fill="#ff7f0e"
+             r="3"
+             id="circle5631" />
+          <circle
+             cx="440"
+             cy="438"
+             fill="#ff7f0e"
+             r="3"
+             id="circle5633" />
+          <circle
+             cx="306"
+             cy="292"
+             fill="#ff7f0e"
+             r="3"
+             id="circle5635" />
+          <circle
+             cx="287"
+             cy="396"
+             fill="#ff7f0e"
+             r="3"
+             id="circle5637" />
+          <circle
+             cx="287"
+             cy="375"
+             fill="#ff7f0e"
+             r="3"
+             id="circle5639" />
+          <circle
+             cx="402"
+             cy="292"
+             fill="#ff7f0e"
+             r="3"
+             id="circle5641" />
+          <circle
+             cx="344"
+             cy="375"
+             fill="#ff7f0e"
+             r="3"
+             id="circle5643" />
+          <circle
+             cx="191"
+             cy="438"
+             fill="#ff7f0e"
+             r="3"
+             id="circle5645" />
+          <circle
+             cx="306"
+             cy="354"
+             fill="#ff7f0e"
+             r="3"
+             id="circle5647" />
+          <circle
+             cx="325"
+             cy="292"
+             fill="#ff7f0e"
+             r="3"
+             id="circle5649" />
+          <circle
+             cx="325"
+             cy="313"
+             fill="#ff7f0e"
+             r="3"
+             id="circle5651" />
+          <circle
+             cx="421"
+             cy="313"
+             fill="#ff7f0e"
+             r="3"
+             id="circle5653" />
+          <circle
+             cx="210"
+             cy="396"
+             fill="#ff7f0e"
+             r="3"
+             id="circle5655" />
+          <circle
+             cx="325"
+             cy="333"
+             fill="#ff7f0e"
+             r="3"
+             id="circle5657" />
+        </g>
+      </g>
+      <g
+         class="hulls"
+         id="g5767">
+        <path
+           d="M746,125L708,125L421,208L172,396L383,458L708,375Z"
+           fill="#2ca02c"
+           stroke="#2ca02c"
+           stroke-width="10"
+           stroke-linejoin="round"
+           opacity="0.5"
+           id="path5663" />
+        <g
+           id="g5765">
+          <circle
+             cx="440"
+             cy="229"
+             fill="#2ca02c"
+             r="3"
+             id="circle5665" />
+          <circle
+             cx="344"
+             cy="354"
+             fill="#2ca02c"
+             r="3"
+             id="circle5667" />
+          <circle
+             cx="593"
+             cy="292"
+             fill="#2ca02c"
+             r="3"
+             id="circle5669" />
+          <circle
+             cx="440"
+             cy="313"
+             fill="#2ca02c"
+             r="3"
+             id="circle5671" />
+          <circle
+             cx="478"
+             cy="292"
+             fill="#2ca02c"
+             r="3"
+             id="circle5673" />
+          <circle
+             cx="688"
+             cy="292"
+             fill="#2ca02c"
+             r="3"
+             id="circle5675" />
+          <circle
+             cx="172"
+             cy="396"
+             fill="#2ca02c"
+             r="3"
+             id="circle5677" />
+          <circle
+             cx="631"
+             cy="313"
+             fill="#2ca02c"
+             r="3"
+             id="circle5679" />
+          <circle
+             cx="516"
+             cy="396"
+             fill="#2ca02c"
+             r="3"
+             id="circle5681" />
+          <circle
+             cx="612"
+             cy="167"
+             fill="#2ca02c"
+             r="3"
+             id="circle5683" />
+          <circle
+             cx="478"
+             cy="250"
+             fill="#2ca02c"
+             r="3"
+             id="circle5685" />
+          <circle
+             cx="459"
+             cy="354"
+             fill="#2ca02c"
+             r="3"
+             id="circle5687" />
+          <circle
+             cx="536"
+             cy="292"
+             fill="#2ca02c"
+             r="3"
+             id="circle5689" />
+          <circle
+             cx="325"
+             cy="396"
+             fill="#2ca02c"
+             r="3"
+             id="circle5691" />
+          <circle
+             cx="344"
+             cy="333"
+             fill="#2ca02c"
+             r="3"
+             id="circle5693" />
+          <circle
+             cx="459"
+             cy="250"
+             fill="#2ca02c"
+             r="3"
+             id="circle5695" />
+          <circle
+             cx="478"
+             cy="292"
+             fill="#2ca02c"
+             r="3"
+             id="circle5697" />
+          <circle
+             cx="708"
+             cy="125"
+             fill="#2ca02c"
+             r="3"
+             id="circle5699" />
+          <circle
+             cx="708"
+             cy="375"
+             fill="#2ca02c"
+             r="3"
+             id="circle5701" />
+          <circle
+             cx="383"
+             cy="458"
+             fill="#2ca02c"
+             r="3"
+             id="circle5703" />
+          <circle
+             cx="555"
+             cy="250"
+             fill="#2ca02c"
+             r="3"
+             id="circle5705" />
+          <circle
+             cx="306"
+             cy="333"
+             fill="#2ca02c"
+             r="3"
+             id="circle5707" />
+          <circle
+             cx="708"
+             cy="333"
+             fill="#2ca02c"
+             r="3"
+             id="circle5709" />
+          <circle
+             cx="440"
+             cy="354"
+             fill="#2ca02c"
+             r="3"
+             id="circle5711" />
+          <circle
+             cx="516"
+             cy="229"
+             fill="#2ca02c"
+             r="3"
+             id="circle5713" />
+          <circle
+             cx="612"
+             cy="250"
+             fill="#2ca02c"
+             r="3"
+             id="circle5715" />
+          <circle
+             cx="421"
+             cy="333"
+             fill="#2ca02c"
+             r="3"
+             id="circle5717" />
+          <circle
+             cx="402"
+             cy="292"
+             fill="#2ca02c"
+             r="3"
+             id="circle5719" />
+          <circle
+             cx="459"
+             cy="333"
+             fill="#2ca02c"
+             r="3"
+             id="circle5721" />
+          <circle
+             cx="612"
+             cy="292"
+             fill="#2ca02c"
+             r="3"
+             id="circle5723" />
+          <circle
+             cx="650"
+             cy="333"
+             fill="#2ca02c"
+             r="3"
+             id="circle5725" />
+          <circle
+             cx="746"
+             cy="125"
+             fill="#2ca02c"
+             r="3"
+             id="circle5727" />
+          <circle
+             cx="459"
+             cy="333"
+             fill="#2ca02c"
+             r="3"
+             id="circle5729" />
+          <circle
+             cx="440"
+             cy="333"
+             fill="#2ca02c"
+             r="3"
+             id="circle5731" />
+          <circle
+             cx="402"
+             cy="375"
+             fill="#2ca02c"
+             r="3"
+             id="circle5733" />
+          <circle
+             cx="708"
+             cy="292"
+             fill="#2ca02c"
+             r="3"
+             id="circle5735" />
+          <circle
+             cx="440"
+             cy="208"
+             fill="#2ca02c"
+             r="3"
+             id="circle5737" />
+          <circle
+             cx="459"
+             cy="271"
+             fill="#2ca02c"
+             r="3"
+             id="circle5739" />
+          <circle
+             cx="383"
+             cy="292"
+             fill="#2ca02c"
+             r="3"
+             id="circle5741" />
+          <circle
+             cx="555"
+             cy="271"
+             fill="#2ca02c"
+             r="3"
+             id="circle5743" />
+          <circle
+             cx="516"
+             cy="271"
+             fill="#2ca02c"
+             r="3"
+             id="circle5745" />
+          <circle
+             cx="555"
+             cy="271"
+             fill="#2ca02c"
+             r="3"
+             id="circle5747" />
+          <circle
+             cx="344"
+             cy="354"
+             fill="#2ca02c"
+             r="3"
+             id="circle5749" />
+          <circle
+             cx="536"
+             cy="250"
+             fill="#2ca02c"
+             r="3"
+             id="circle5751" />
+          <circle
+             cx="516"
+             cy="229"
+             fill="#2ca02c"
+             r="3"
+             id="circle5753" />
+          <circle
+             cx="516"
+             cy="292"
+             fill="#2ca02c"
+             r="3"
+             id="circle5755" />
+          <circle
+             cx="440"
+             cy="396"
+             fill="#2ca02c"
+             r="3"
+             id="circle5757" />
+          <circle
+             cx="478"
+             cy="292"
+             fill="#2ca02c"
+             r="3"
+             id="circle5759" />
+          <circle
+             cx="421"
+             cy="208"
+             fill="#2ca02c"
+             r="3"
+             id="circle5761" />
+          <circle
+             cx="363"
+             cy="292"
+             fill="#2ca02c"
+             r="3"
+             id="circle5763" />
+        </g>
+      </g>
+    </g>
+    <g
+       id="labels">
+      <g
+         transform="translate(210,188)"
+         id="g5772">
+        <text
+           x="0"
+           y="0"
+           text-anchor="middle"
+           dominant-baseline="text-before-edge"
+           transform="translate(0,0)"
+           id="text5770" />
+      </g>
+      <g
+         transform="translate(172,292)"
+         id="g5776">
+        <text
+           x="0"
+           y="0"
+           text-anchor="middle"
+           dominant-baseline="text-before-edge"
+           transform="translate(0,0)"
+           id="text5774" />
+      </g>
+      <g
+         transform="translate(134,250)"
+         id="g5780">
+        <text
+           x="0"
+           y="0"
+           text-anchor="middle"
+           dominant-baseline="text-before-edge"
+           transform="translate(0,0)"
+           id="text5778" />
+      </g>
+      <g
+         transform="translate(115,271)"
+         id="g5784">
+        <text
+           x="0"
+           y="0"
+           text-anchor="middle"
+           dominant-baseline="text-before-edge"
+           transform="translate(0,0)"
+           id="text5782" />
+      </g>
+      <g
+         transform="translate(191,167)"
+         id="g5788">
+        <text
+           x="0"
+           y="0"
+           text-anchor="middle"
+           dominant-baseline="text-before-edge"
+           transform="translate(0,0)"
+           id="text5786" />
+      </g>
+      <g
+         transform="translate(268,104)"
+         id="g5792">
+        <text
+           x="0"
+           y="0"
+           text-anchor="middle"
+           dominant-baseline="text-before-edge"
+           transform="translate(0,0)"
+           id="text5790" />
+      </g>
+      <g
+         transform="translate(115,208)"
+         id="g5796">
+        <text
+           x="0"
+           y="0"
+           text-anchor="middle"
+           dominant-baseline="text-before-edge"
+           transform="translate(0,0)"
+           id="text5794" />
+      </g>
+      <g
+         transform="translate(191,208)"
+         id="g5800">
+        <text
+           x="0"
+           y="0"
+           text-anchor="middle"
+           dominant-baseline="text-before-edge"
+           transform="translate(0,0)"
+           id="text5798" />
+      </g>
+      <g
+         transform="translate(77,313)"
+         id="g5804">
+        <text
+           x="0"
+           y="0"
+           text-anchor="middle"
+           dominant-baseline="text-before-edge"
+           transform="translate(0,0)"
+           id="text5802" />
+      </g>
+      <g
+         transform="translate(172,271)"
+         id="g5808">
+        <text
+           x="0"
+           y="0"
+           text-anchor="middle"
+           dominant-baseline="text-before-edge"
+           transform="translate(0,0)"
+           id="text5806" />
+      </g>
+      <g
+         transform="translate(268,146)"
+         id="g5812">
+        <text
+           x="0"
+           y="0"
+           text-anchor="middle"
+           dominant-baseline="text-before-edge"
+           transform="translate(0,0)"
+           id="text5810" />
+      </g>
+      <g
+         transform="translate(153,208)"
+         id="g5816">
+        <text
+           x="0"
+           y="0"
+           text-anchor="middle"
+           dominant-baseline="text-before-edge"
+           transform="translate(0,0)"
+           id="text5814" />
+      </g>
+      <g
+         transform="translate(153,292)"
+         id="g5820">
+        <text
+           x="0"
+           y="0"
+           text-anchor="middle"
+           dominant-baseline="text-before-edge"
+           transform="translate(0,0)"
+           id="text5818" />
+      </g>
+      <g
+         transform="translate(57,292)"
+         id="g5824">
+        <text
+           x="0"
+           y="0"
+           text-anchor="middle"
+           dominant-baseline="text-before-edge"
+           transform="translate(0,0)"
+           id="text5822" />
+      </g>
+      <g
+         transform="translate(344,83)"
+         id="g5828">
+        <text
+           x="0"
+           y="0"
+           text-anchor="middle"
+           dominant-baseline="text-before-edge"
+           transform="translate(0,0)"
+           id="text5826" />
+      </g>
+      <g
+         transform="translate(325,0)"
+         id="g5832">
+        <text
+           x="0"
+           y="0"
+           text-anchor="middle"
+           dominant-baseline="text-before-edge"
+           transform="translate(0,0)"
+           id="text5830" />
+      </g>
+      <g
+         transform="translate(268,104)"
+         id="g5836">
+        <text
+           x="0"
+           y="0"
+           text-anchor="middle"
+           dominant-baseline="text-before-edge"
+           transform="translate(0,0)"
+           id="text5834" />
+      </g>
+      <g
+         transform="translate(210,188)"
+         id="g5840">
+        <text
+           x="0"
+           y="0"
+           text-anchor="middle"
+           dominant-baseline="text-before-edge"
+           transform="translate(0,0)"
+           id="text5838" />
+      </g>
+      <g
+         transform="translate(325,125)"
+         id="g5844">
+        <text
+           x="0"
+           y="0"
+           text-anchor="middle"
+           dominant-baseline="text-before-edge"
+           transform="translate(0,0)"
+           id="text5842" />
+      </g>
+      <g
+         transform="translate(210,125)"
+         id="g5848">
+        <text
+           x="0"
+           y="0"
+           text-anchor="middle"
+           dominant-baseline="text-before-edge"
+           transform="translate(0,0)"
+           id="text5846" />
+      </g>
+      <g
+         transform="translate(268,208)"
+         id="g5852">
+        <text
+           x="0"
+           y="0"
+           text-anchor="middle"
+           dominant-baseline="text-before-edge"
+           transform="translate(0,0)"
+           id="text5850" />
+      </g>
+      <g
+         transform="translate(210,146)"
+         id="g5856">
+        <text
+           x="0"
+           y="0"
+           text-anchor="middle"
+           dominant-baseline="text-before-edge"
+           transform="translate(0,0)"
+           id="text5854" />
+      </g>
+      <g
+         transform="translate(115,167)"
+         id="g5860">
+        <text
+           x="0"
+           y="0"
+           text-anchor="middle"
+           dominant-baseline="text-before-edge"
+           transform="translate(0,0)"
+           id="text5858" />
+      </g>
+      <g
+         transform="translate(210,229)"
+         id="g5864">
+        <text
+           x="0"
+           y="0"
+           text-anchor="middle"
+           dominant-baseline="text-before-edge"
+           transform="translate(0,0)"
+           id="text5862" />
+      </g>
+      <g
+         transform="translate(153,208)"
+         id="g5868">
+        <text
+           x="0"
+           y="0"
+           text-anchor="middle"
+           dominant-baseline="text-before-edge"
+           transform="translate(0,0)"
+           id="text5866" />
+      </g>
+      <g
+         transform="translate(191,292)"
+         id="g5872">
+        <text
+           x="0"
+           y="0"
+           text-anchor="middle"
+           dominant-baseline="text-before-edge"
+           transform="translate(0,0)"
+           id="text5870" />
+      </g>
+      <g
+         transform="translate(191,208)"
+         id="g5876">
+        <text
+           x="0"
+           y="0"
+           text-anchor="middle"
+           dominant-baseline="text-before-edge"
+           transform="translate(0,0)"
+           id="text5874" />
+      </g>
+      <g
+         transform="translate(230,188)"
+         id="g5880">
+        <text
+           x="0"
+           y="0"
+           text-anchor="middle"
+           dominant-baseline="text-before-edge"
+           transform="translate(0,0)"
+           id="text5878" />
+      </g>
+      <g
+         transform="translate(230,208)"
+         id="g5884">
+        <text
+           x="0"
+           y="0"
+           text-anchor="middle"
+           dominant-baseline="text-before-edge"
+           transform="translate(0,0)"
+           id="text5882" />
+      </g>
+      <g
+         transform="translate(134,250)"
+         id="g5888">
+        <text
+           x="0"
+           y="0"
+           text-anchor="middle"
+           dominant-baseline="text-before-edge"
+           transform="translate(0,0)"
+           id="text5886" />
+      </g>
+      <g
+         transform="translate(153,271)"
+         id="g5892">
+        <text
+           x="0"
+           y="0"
+           text-anchor="middle"
+           dominant-baseline="text-before-edge"
+           transform="translate(0,0)"
+           id="text5890" />
+      </g>
+      <g
+         transform="translate(268,208)"
+         id="g5896">
+        <text
+           x="0"
+           y="0"
+           text-anchor="middle"
+           dominant-baseline="text-before-edge"
+           transform="translate(0,0)"
+           id="text5894" />
+      </g>
+      <g
+         transform="translate(230,63)"
+         id="g5900">
+        <text
+           x="0"
+           y="0"
+           text-anchor="middle"
+           dominant-baseline="text-before-edge"
+           transform="translate(0,0)"
+           id="text5898" />
+      </g>
+      <g
+         transform="translate(287,42)"
+         id="g5904">
+        <text
+           x="0"
+           y="0"
+           text-anchor="middle"
+           dominant-baseline="text-before-edge"
+           transform="translate(0,0)"
+           id="text5902" />
+      </g>
+      <g
+         transform="translate(172,271)"
+         id="g5908">
+        <text
+           x="0"
+           y="0"
+           text-anchor="middle"
+           dominant-baseline="text-before-edge"
+           transform="translate(0,0)"
+           id="text5906" />
+      </g>
+      <g
+         transform="translate(191,250)"
+         id="g5912">
+        <text
+           x="0"
+           y="0"
+           text-anchor="middle"
+           dominant-baseline="text-before-edge"
+           transform="translate(0,0)"
+           id="text5910" />
+      </g>
+      <g
+         transform="translate(287,188)"
+         id="g5916">
+        <text
+           x="0"
+           y="0"
+           text-anchor="middle"
+           dominant-baseline="text-before-edge"
+           transform="translate(0,0)"
+           id="text5914" />
+      </g>
+      <g
+         transform="translate(172,271)"
+         id="g5920">
+        <text
+           x="0"
+           y="0"
+           text-anchor="middle"
+           dominant-baseline="text-before-edge"
+           transform="translate(0,0)"
+           id="text5918" />
+      </g>
+      <g
+         transform="translate(77,292)"
+         id="g5924">
+        <text
+           x="0"
+           y="0"
+           text-anchor="middle"
+           dominant-baseline="text-before-edge"
+           transform="translate(0,0)"
+           id="text5922" />
+      </g>
+      <g
+         transform="translate(210,208)"
+         id="g5928">
+        <text
+           x="0"
+           y="0"
+           text-anchor="middle"
+           dominant-baseline="text-before-edge"
+           transform="translate(0,0)"
+           id="text5926" />
+      </g>
+      <g
+         transform="translate(191,188)"
+         id="g5932">
+        <text
+           x="0"
+           y="0"
+           text-anchor="middle"
+           dominant-baseline="text-before-edge"
+           transform="translate(0,0)"
+           id="text5930" />
+      </g>
+      <g
+         transform="translate(96,438)"
+         id="g5936">
+        <text
+           x="0"
+           y="0"
+           text-anchor="middle"
+           dominant-baseline="text-before-edge"
+           transform="translate(0,0)"
+           id="text5934" />
+      </g>
+      <g
+         transform="translate(77,250)"
+         id="g5940">
+        <text
+           x="0"
+           y="0"
+           text-anchor="middle"
+           dominant-baseline="text-before-edge"
+           transform="translate(0,0)"
+           id="text5938" />
+      </g>
+      <g
+         transform="translate(191,188)"
+         id="g5944">
+        <text
+           x="0"
+           y="0"
+           text-anchor="middle"
+           dominant-baseline="text-before-edge"
+           transform="translate(0,0)"
+           id="text5942" />
+      </g>
+      <g
+         transform="translate(210,125)"
+         id="g5948">
+        <text
+           x="0"
+           y="0"
+           text-anchor="middle"
+           dominant-baseline="text-before-edge"
+           transform="translate(0,0)"
+           id="text5946" />
+      </g>
+      <g
+         transform="translate(153,292)"
+         id="g5952">
+        <text
+           x="0"
+           y="0"
+           text-anchor="middle"
+           dominant-baseline="text-before-edge"
+           transform="translate(0,0)"
+           id="text5950" />
+      </g>
+      <g
+         transform="translate(210,125)"
+         id="g5956">
+        <text
+           x="0"
+           y="0"
+           text-anchor="middle"
+           dominant-baseline="text-before-edge"
+           transform="translate(0,0)"
+           id="text5954" />
+      </g>
+      <g
+         transform="translate(115,250)"
+         id="g5960">
+        <text
+           x="0"
+           y="0"
+           text-anchor="middle"
+           dominant-baseline="text-before-edge"
+           transform="translate(0,0)"
+           id="text5958" />
+      </g>
+      <g
+         transform="translate(249,146)"
+         id="g5964">
+        <text
+           x="0"
+           y="0"
+           text-anchor="middle"
+           dominant-baseline="text-before-edge"
+           transform="translate(0,0)"
+           id="text5962" />
+      </g>
+      <g
+         transform="translate(191,229)"
+         id="g5968">
+        <text
+           x="0"
+           y="0"
+           text-anchor="middle"
+           dominant-baseline="text-before-edge"
+           transform="translate(0,0)"
+           id="text5966" />
+      </g>
+      <g
+         transform="translate(574,250)"
+         id="g5972">
+        <text
+           x="0"
+           y="0"
+           text-anchor="middle"
+           dominant-baseline="text-before-edge"
+           transform="translate(0,0)"
+           id="text5970" />
+      </g>
+      <g
+         transform="translate(459,250)"
+         id="g5976">
+        <text
+           x="0"
+           y="0"
+           text-anchor="middle"
+           dominant-baseline="text-before-edge"
+           transform="translate(0,0)"
+           id="text5974" />
+      </g>
+      <g
+         transform="translate(555,271)"
+         id="g5980">
+        <text
+           x="0"
+           y="0"
+           text-anchor="middle"
+           dominant-baseline="text-before-edge"
+           transform="translate(0,0)"
+           id="text5978" />
+      </g>
+      <g
+         transform="translate(287,438)"
+         id="g5984">
+        <text
+           x="0"
+           y="0"
+           text-anchor="middle"
+           dominant-baseline="text-before-edge"
+           transform="translate(0,0)"
+           id="text5982" />
+      </g>
+      <g
+         transform="translate(478,333)"
+         id="g5988">
+        <text
+           x="0"
+           y="0"
+           text-anchor="middle"
+           dominant-baseline="text-before-edge"
+           transform="translate(0,0)"
+           id="text5986" />
+      </g>
+      <g
+         transform="translate(325,333)"
+         id="g5992">
+        <text
+           x="0"
+           y="0"
+           text-anchor="middle"
+           dominant-baseline="text-before-edge"
+           transform="translate(0,0)"
+           id="text5990" />
+      </g>
+      <g
+         transform="translate(440,229)"
+         id="g5996">
+        <text
+           x="0"
+           y="0"
+           text-anchor="middle"
+           dominant-baseline="text-before-edge"
+           transform="translate(0,0)"
+           id="text5994" />
+      </g>
+      <g
+         transform="translate(172,417)"
+         id="g6000">
+        <text
+           x="0"
+           y="0"
+           text-anchor="middle"
+           dominant-baseline="text-before-edge"
+           transform="translate(0,0)"
+           id="text5998" />
+      </g>
+      <g
+         transform="translate(497,313)"
+         id="g6004">
+        <text
+           x="0"
+           y="0"
+           text-anchor="middle"
+           dominant-baseline="text-before-edge"
+           transform="translate(0,0)"
+           id="text6002" />
+      </g>
+      <g
+         transform="translate(230,354)"
+         id="g6008">
+        <text
+           x="0"
+           y="0"
+           text-anchor="middle"
+           dominant-baseline="text-before-edge"
+           transform="translate(0,0)"
+           id="text6006" />
+      </g>
+      <g
+         transform="translate(191,500)"
+         id="g6012">
+        <text
+           x="0"
+           y="0"
+           text-anchor="middle"
+           dominant-baseline="text-before-edge"
+           transform="translate(0,0)"
+           id="text6010" />
+      </g>
+      <g
+         transform="translate(363,292)"
+         id="g6016">
+        <text
+           x="0"
+           y="0"
+           text-anchor="middle"
+           dominant-baseline="text-before-edge"
+           transform="translate(0,0)"
+           id="text6014" />
+      </g>
+      <g
+         transform="translate(383,458)"
+         id="g6020">
+        <text
+           x="0"
+           y="0"
+           text-anchor="middle"
+           dominant-baseline="text-before-edge"
+           transform="translate(0,0)"
+           id="text6018" />
+      </g>
+      <g
+         transform="translate(402,313)"
+         id="g6024">
+        <text
+           x="0"
+           y="0"
+           text-anchor="middle"
+           dominant-baseline="text-before-edge"
+           transform="translate(0,0)"
+           id="text6022" />
+      </g>
+      <g
+         transform="translate(306,313)"
+         id="g6028">
+        <text
+           x="0"
+           y="0"
+           text-anchor="middle"
+           dominant-baseline="text-before-edge"
+           transform="translate(0,0)"
+           id="text6026" />
+      </g>
+      <g
+         transform="translate(516,271)"
+         id="g6032">
+        <text
+           x="0"
+           y="0"
+           text-anchor="middle"
+           dominant-baseline="text-before-edge"
+           transform="translate(0,0)"
+           id="text6030" />
+      </g>
+      <g
+         transform="translate(306,292)"
+         id="g6036">
+        <text
+           x="0"
+           y="0"
+           text-anchor="middle"
+           dominant-baseline="text-before-edge"
+           transform="translate(0,0)"
+           id="text6034" />
+      </g>
+      <g
+         transform="translate(344,354)"
+         id="g6040">
+        <text
+           x="0"
+           y="0"
+           text-anchor="middle"
+           dominant-baseline="text-before-edge"
+           transform="translate(0,0)"
+           id="text6038" />
+      </g>
+      <g
+         transform="translate(421,458)"
+         id="g6044">
+        <text
+           x="0"
+           y="0"
+           text-anchor="middle"
+           dominant-baseline="text-before-edge"
+           transform="translate(0,0)"
+           id="text6042" />
+      </g>
+      <g
+         transform="translate(306,396)"
+         id="g6048">
+        <text
+           x="0"
+           y="0"
+           text-anchor="middle"
+           dominant-baseline="text-before-edge"
+           transform="translate(0,0)"
+           id="text6046" />
+      </g>
+      <g
+         transform="translate(363,250)"
+         id="g6052">
+        <text
+           x="0"
+           y="0"
+           text-anchor="middle"
+           dominant-baseline="text-before-edge"
+           transform="translate(0,0)"
+           id="text6050" />
+      </g>
+      <g
+         transform="translate(402,333)"
+         id="g6056">
+        <text
+           x="0"
+           y="0"
+           text-anchor="middle"
+           dominant-baseline="text-before-edge"
+           transform="translate(0,0)"
+           id="text6054" />
+      </g>
+      <g
+         transform="translate(440,396)"
+         id="g6060">
+        <text
+           x="0"
+           y="0"
+           text-anchor="middle"
+           dominant-baseline="text-before-edge"
+           transform="translate(0,0)"
+           id="text6058" />
+      </g>
+      <g
+         transform="translate(402,333)"
+         id="g6064">
+        <text
+           x="0"
+           y="0"
+           text-anchor="middle"
+           dominant-baseline="text-before-edge"
+           transform="translate(0,0)"
+           id="text6062" />
+      </g>
+      <g
+         transform="translate(459,313)"
+         id="g6068">
+        <text
+           x="0"
+           y="0"
+           text-anchor="middle"
+           dominant-baseline="text-before-edge"
+           transform="translate(0,0)"
+           id="text6066" />
+      </g>
+      <g
+         transform="translate(497,292)"
+         id="g6072">
+        <text
+           x="0"
+           y="0"
+           text-anchor="middle"
+           dominant-baseline="text-before-edge"
+           transform="translate(0,0)"
+           id="text6070" />
+      </g>
+      <g
+         transform="translate(536,333)"
+         id="g6076">
+        <text
+           x="0"
+           y="0"
+           text-anchor="middle"
+           dominant-baseline="text-before-edge"
+           transform="translate(0,0)"
+           id="text6074" />
+      </g>
+      <g
+         transform="translate(516,292)"
+         id="g6080">
+        <text
+           x="0"
+           y="0"
+           text-anchor="middle"
+           dominant-baseline="text-before-edge"
+           transform="translate(0,0)"
+           id="text6078" />
+      </g>
+      <g
+         transform="translate(383,313)"
+         id="g6084">
+        <text
+           x="0"
+           y="0"
+           text-anchor="middle"
+           dominant-baseline="text-before-edge"
+           transform="translate(0,0)"
+           id="text6082" />
+      </g>
+      <g
+         transform="translate(325,375)"
+         id="g6088">
+        <text
+           x="0"
+           y="0"
+           text-anchor="middle"
+           dominant-baseline="text-before-edge"
+           transform="translate(0,0)"
+           id="text6086" />
+      </g>
+      <g
+         transform="translate(287,417)"
+         id="g6092">
+        <text
+           x="0"
+           y="0"
+           text-anchor="middle"
+           dominant-baseline="text-before-edge"
+           transform="translate(0,0)"
+           id="text6090" />
+      </g>
+      <g
+         transform="translate(287,417)"
+         id="g6096">
+        <text
+           x="0"
+           y="0"
+           text-anchor="middle"
+           dominant-baseline="text-before-edge"
+           transform="translate(0,0)"
+           id="text6094" />
+      </g>
+      <g
+         transform="translate(344,354)"
+         id="g6100">
+        <text
+           x="0"
+           y="0"
+           text-anchor="middle"
+           dominant-baseline="text-before-edge"
+           transform="translate(0,0)"
+           id="text6098" />
+      </g>
+      <g
+         transform="translate(383,354)"
+         id="g6104">
+        <text
+           x="0"
+           y="0"
+           text-anchor="middle"
+           dominant-baseline="text-before-edge"
+           transform="translate(0,0)"
+           id="text6102" />
+      </g>
+      <g
+         transform="translate(268,292)"
+         id="g6108">
+        <text
+           x="0"
+           y="0"
+           text-anchor="middle"
+           dominant-baseline="text-before-edge"
+           transform="translate(0,0)"
+           id="text6106" />
+      </g>
+      <g
+         transform="translate(383,208)"
+         id="g6112">
+        <text
+           x="0"
+           y="0"
+           text-anchor="middle"
+           dominant-baseline="text-before-edge"
+           transform="translate(0,0)"
+           id="text6110" />
+      </g>
+      <g
+         transform="translate(516,271)"
+         id="g6116">
+        <text
+           x="0"
+           y="0"
+           text-anchor="middle"
+           dominant-baseline="text-before-edge"
+           transform="translate(0,0)"
+           id="text6114" />
+      </g>
+      <g
+         transform="translate(440,438)"
+         id="g6120">
+        <text
+           x="0"
+           y="0"
+           text-anchor="middle"
+           dominant-baseline="text-before-edge"
+           transform="translate(0,0)"
+           id="text6118" />
+      </g>
+      <g
+         transform="translate(306,292)"
+         id="g6124">
+        <text
+           x="0"
+           y="0"
+           text-anchor="middle"
+           dominant-baseline="text-before-edge"
+           transform="translate(0,0)"
+           id="text6122" />
+      </g>
+      <g
+         transform="translate(287,396)"
+         id="g6128">
+        <text
+           x="0"
+           y="0"
+           text-anchor="middle"
+           dominant-baseline="text-before-edge"
+           transform="translate(0,0)"
+           id="text6126" />
+      </g>
+      <g
+         transform="translate(287,375)"
+         id="g6132">
+        <text
+           x="0"
+           y="0"
+           text-anchor="middle"
+           dominant-baseline="text-before-edge"
+           transform="translate(0,0)"
+           id="text6130" />
+      </g>
+      <g
+         transform="translate(402,292)"
+         id="g6136">
+        <text
+           x="0"
+           y="0"
+           text-anchor="middle"
+           dominant-baseline="text-before-edge"
+           transform="translate(0,0)"
+           id="text6134" />
+      </g>
+      <g
+         transform="translate(344,375)"
+         id="g6140">
+        <text
+           x="0"
+           y="0"
+           text-anchor="middle"
+           dominant-baseline="text-before-edge"
+           transform="translate(0,0)"
+           id="text6138" />
+      </g>
+      <g
+         transform="translate(191,438)"
+         id="g6144">
+        <text
+           x="0"
+           y="0"
+           text-anchor="middle"
+           dominant-baseline="text-before-edge"
+           transform="translate(0,0)"
+           id="text6142" />
+      </g>
+      <g
+         transform="translate(306,354)"
+         id="g6148">
+        <text
+           x="0"
+           y="0"
+           text-anchor="middle"
+           dominant-baseline="text-before-edge"
+           transform="translate(0,0)"
+           id="text6146" />
+      </g>
+      <g
+         transform="translate(325,292)"
+         id="g6152">
+        <text
+           x="0"
+           y="0"
+           text-anchor="middle"
+           dominant-baseline="text-before-edge"
+           transform="translate(0,0)"
+           id="text6150" />
+      </g>
+      <g
+         transform="translate(325,313)"
+         id="g6156">
+        <text
+           x="0"
+           y="0"
+           text-anchor="middle"
+           dominant-baseline="text-before-edge"
+           transform="translate(0,0)"
+           id="text6154" />
+      </g>
+      <g
+         transform="translate(421,313)"
+         id="g6160">
+        <text
+           x="0"
+           y="0"
+           text-anchor="middle"
+           dominant-baseline="text-before-edge"
+           transform="translate(0,0)"
+           id="text6158" />
+      </g>
+      <g
+         transform="translate(210,396)"
+         id="g6164">
+        <text
+           x="0"
+           y="0"
+           text-anchor="middle"
+           dominant-baseline="text-before-edge"
+           transform="translate(0,0)"
+           id="text6162" />
+      </g>
+      <g
+         transform="translate(325,333)"
+         id="g6168">
+        <text
+           x="0"
+           y="0"
+           text-anchor="middle"
+           dominant-baseline="text-before-edge"
+           transform="translate(0,0)"
+           id="text6166" />
+      </g>
+      <g
+         transform="translate(440,229)"
+         id="g6172">
+        <text
+           x="0"
+           y="0"
+           text-anchor="middle"
+           dominant-baseline="text-before-edge"
+           transform="translate(0,0)"
+           id="text6170" />
+      </g>
+      <g
+         transform="translate(344,354)"
+         id="g6176">
+        <text
+           x="0"
+           y="0"
+           text-anchor="middle"
+           dominant-baseline="text-before-edge"
+           transform="translate(0,0)"
+           id="text6174" />
+      </g>
+      <g
+         transform="translate(593,292)"
+         id="g6180">
+        <text
+           x="0"
+           y="0"
+           text-anchor="middle"
+           dominant-baseline="text-before-edge"
+           transform="translate(0,0)"
+           id="text6178" />
+      </g>
+      <g
+         transform="translate(440,313)"
+         id="g6184">
+        <text
+           x="0"
+           y="0"
+           text-anchor="middle"
+           dominant-baseline="text-before-edge"
+           transform="translate(0,0)"
+           id="text6182" />
+      </g>
+      <g
+         transform="translate(478,292)"
+         id="g6188">
+        <text
+           x="0"
+           y="0"
+           text-anchor="middle"
+           dominant-baseline="text-before-edge"
+           transform="translate(0,0)"
+           id="text6186" />
+      </g>
+      <g
+         transform="translate(688,292)"
+         id="g6192">
+        <text
+           x="0"
+           y="0"
+           text-anchor="middle"
+           dominant-baseline="text-before-edge"
+           transform="translate(0,0)"
+           id="text6190" />
+      </g>
+      <g
+         transform="translate(172,396)"
+         id="g6196">
+        <text
+           x="0"
+           y="0"
+           text-anchor="middle"
+           dominant-baseline="text-before-edge"
+           transform="translate(0,0)"
+           id="text6194" />
+      </g>
+      <g
+         transform="translate(631,313)"
+         id="g6200">
+        <text
+           x="0"
+           y="0"
+           text-anchor="middle"
+           dominant-baseline="text-before-edge"
+           transform="translate(0,0)"
+           id="text6198" />
+      </g>
+      <g
+         transform="translate(516,396)"
+         id="g6204">
+        <text
+           x="0"
+           y="0"
+           text-anchor="middle"
+           dominant-baseline="text-before-edge"
+           transform="translate(0,0)"
+           id="text6202" />
+      </g>
+      <g
+         transform="translate(612,167)"
+         id="g6208">
+        <text
+           x="0"
+           y="0"
+           text-anchor="middle"
+           dominant-baseline="text-before-edge"
+           transform="translate(0,0)"
+           id="text6206" />
+      </g>
+      <g
+         transform="translate(478,250)"
+         id="g6212">
+        <text
+           x="0"
+           y="0"
+           text-anchor="middle"
+           dominant-baseline="text-before-edge"
+           transform="translate(0,0)"
+           id="text6210" />
+      </g>
+      <g
+         transform="translate(459,354)"
+         id="g6216">
+        <text
+           x="0"
+           y="0"
+           text-anchor="middle"
+           dominant-baseline="text-before-edge"
+           transform="translate(0,0)"
+           id="text6214" />
+      </g>
+      <g
+         transform="translate(536,292)"
+         id="g6220">
+        <text
+           x="0"
+           y="0"
+           text-anchor="middle"
+           dominant-baseline="text-before-edge"
+           transform="translate(0,0)"
+           id="text6218" />
+      </g>
+      <g
+         transform="translate(325,396)"
+         id="g6224">
+        <text
+           x="0"
+           y="0"
+           text-anchor="middle"
+           dominant-baseline="text-before-edge"
+           transform="translate(0,0)"
+           id="text6222" />
+      </g>
+      <g
+         transform="translate(344,333)"
+         id="g6228">
+        <text
+           x="0"
+           y="0"
+           text-anchor="middle"
+           dominant-baseline="text-before-edge"
+           transform="translate(0,0)"
+           id="text6226" />
+      </g>
+      <g
+         transform="translate(459,250)"
+         id="g6232">
+        <text
+           x="0"
+           y="0"
+           text-anchor="middle"
+           dominant-baseline="text-before-edge"
+           transform="translate(0,0)"
+           id="text6230" />
+      </g>
+      <g
+         transform="translate(478,292)"
+         id="g6236">
+        <text
+           x="0"
+           y="0"
+           text-anchor="middle"
+           dominant-baseline="text-before-edge"
+           transform="translate(0,0)"
+           id="text6234" />
+      </g>
+      <g
+         transform="translate(708,125)"
+         id="g6240">
+        <text
+           x="0"
+           y="0"
+           text-anchor="middle"
+           dominant-baseline="text-before-edge"
+           transform="translate(0,0)"
+           id="text6238" />
+      </g>
+      <g
+         transform="translate(708,375)"
+         id="g6244">
+        <text
+           x="0"
+           y="0"
+           text-anchor="middle"
+           dominant-baseline="text-before-edge"
+           transform="translate(0,0)"
+           id="text6242" />
+      </g>
+      <g
+         transform="translate(383,458)"
+         id="g6248">
+        <text
+           x="0"
+           y="0"
+           text-anchor="middle"
+           dominant-baseline="text-before-edge"
+           transform="translate(0,0)"
+           id="text6246" />
+      </g>
+      <g
+         transform="translate(555,250)"
+         id="g6252">
+        <text
+           x="0"
+           y="0"
+           text-anchor="middle"
+           dominant-baseline="text-before-edge"
+           transform="translate(0,0)"
+           id="text6250" />
+      </g>
+      <g
+         transform="translate(306,333)"
+         id="g6256">
+        <text
+           x="0"
+           y="0"
+           text-anchor="middle"
+           dominant-baseline="text-before-edge"
+           transform="translate(0,0)"
+           id="text6254" />
+      </g>
+      <g
+         transform="translate(708,333)"
+         id="g6260">
+        <text
+           x="0"
+           y="0"
+           text-anchor="middle"
+           dominant-baseline="text-before-edge"
+           transform="translate(0,0)"
+           id="text6258" />
+      </g>
+      <g
+         transform="translate(440,354)"
+         id="g6264">
+        <text
+           x="0"
+           y="0"
+           text-anchor="middle"
+           dominant-baseline="text-before-edge"
+           transform="translate(0,0)"
+           id="text6262" />
+      </g>
+      <g
+         transform="translate(516,229)"
+         id="g6268">
+        <text
+           x="0"
+           y="0"
+           text-anchor="middle"
+           dominant-baseline="text-before-edge"
+           transform="translate(0,0)"
+           id="text6266" />
+      </g>
+      <g
+         transform="translate(612,250)"
+         id="g6272">
+        <text
+           x="0"
+           y="0"
+           text-anchor="middle"
+           dominant-baseline="text-before-edge"
+           transform="translate(0,0)"
+           id="text6270" />
+      </g>
+      <g
+         transform="translate(421,333)"
+         id="g6276">
+        <text
+           x="0"
+           y="0"
+           text-anchor="middle"
+           dominant-baseline="text-before-edge"
+           transform="translate(0,0)"
+           id="text6274" />
+      </g>
+      <g
+         transform="translate(402,292)"
+         id="g6280">
+        <text
+           x="0"
+           y="0"
+           text-anchor="middle"
+           dominant-baseline="text-before-edge"
+           transform="translate(0,0)"
+           id="text6278" />
+      </g>
+      <g
+         transform="translate(459,333)"
+         id="g6284">
+        <text
+           x="0"
+           y="0"
+           text-anchor="middle"
+           dominant-baseline="text-before-edge"
+           transform="translate(0,0)"
+           id="text6282" />
+      </g>
+      <g
+         transform="translate(612,292)"
+         id="g6288">
+        <text
+           x="0"
+           y="0"
+           text-anchor="middle"
+           dominant-baseline="text-before-edge"
+           transform="translate(0,0)"
+           id="text6286" />
+      </g>
+      <g
+         transform="translate(650,333)"
+         id="g6292">
+        <text
+           x="0"
+           y="0"
+           text-anchor="middle"
+           dominant-baseline="text-before-edge"
+           transform="translate(0,0)"
+           id="text6290" />
+      </g>
+      <g
+         transform="translate(746,125)"
+         id="g6296">
+        <text
+           x="0"
+           y="0"
+           text-anchor="middle"
+           dominant-baseline="text-before-edge"
+           transform="translate(0,0)"
+           id="text6294" />
+      </g>
+      <g
+         transform="translate(459,333)"
+         id="g6300">
+        <text
+           x="0"
+           y="0"
+           text-anchor="middle"
+           dominant-baseline="text-before-edge"
+           transform="translate(0,0)"
+           id="text6298" />
+      </g>
+      <g
+         transform="translate(440,333)"
+         id="g6304">
+        <text
+           x="0"
+           y="0"
+           text-anchor="middle"
+           dominant-baseline="text-before-edge"
+           transform="translate(0,0)"
+           id="text6302" />
+      </g>
+      <g
+         transform="translate(402,375)"
+         id="g6308">
+        <text
+           x="0"
+           y="0"
+           text-anchor="middle"
+           dominant-baseline="text-before-edge"
+           transform="translate(0,0)"
+           id="text6306" />
+      </g>
+      <g
+         transform="translate(708,292)"
+         id="g6312">
+        <text
+           x="0"
+           y="0"
+           text-anchor="middle"
+           dominant-baseline="text-before-edge"
+           transform="translate(0,0)"
+           id="text6310" />
+      </g>
+      <g
+         transform="translate(440,208)"
+         id="g6316">
+        <text
+           x="0"
+           y="0"
+           text-anchor="middle"
+           dominant-baseline="text-before-edge"
+           transform="translate(0,0)"
+           id="text6314" />
+      </g>
+      <g
+         transform="translate(459,271)"
+         id="g6320">
+        <text
+           x="0"
+           y="0"
+           text-anchor="middle"
+           dominant-baseline="text-before-edge"
+           transform="translate(0,0)"
+           id="text6318" />
+      </g>
+      <g
+         transform="translate(383,292)"
+         id="g6324">
+        <text
+           x="0"
+           y="0"
+           text-anchor="middle"
+           dominant-baseline="text-before-edge"
+           transform="translate(0,0)"
+           id="text6322" />
+      </g>
+      <g
+         transform="translate(555,271)"
+         id="g6328">
+        <text
+           x="0"
+           y="0"
+           text-anchor="middle"
+           dominant-baseline="text-before-edge"
+           transform="translate(0,0)"
+           id="text6326" />
+      </g>
+      <g
+         transform="translate(516,271)"
+         id="g6332">
+        <text
+           x="0"
+           y="0"
+           text-anchor="middle"
+           dominant-baseline="text-before-edge"
+           transform="translate(0,0)"
+           id="text6330" />
+      </g>
+      <g
+         transform="translate(555,271)"
+         id="g6336">
+        <text
+           x="0"
+           y="0"
+           text-anchor="middle"
+           dominant-baseline="text-before-edge"
+           transform="translate(0,0)"
+           id="text6334" />
+      </g>
+      <g
+         transform="translate(344,354)"
+         id="g6340">
+        <text
+           x="0"
+           y="0"
+           text-anchor="middle"
+           dominant-baseline="text-before-edge"
+           transform="translate(0,0)"
+           id="text6338" />
+      </g>
+      <g
+         transform="translate(536,250)"
+         id="g6344">
+        <text
+           x="0"
+           y="0"
+           text-anchor="middle"
+           dominant-baseline="text-before-edge"
+           transform="translate(0,0)"
+           id="text6342" />
+      </g>
+      <g
+         transform="translate(516,229)"
+         id="g6348">
+        <text
+           x="0"
+           y="0"
+           text-anchor="middle"
+           dominant-baseline="text-before-edge"
+           transform="translate(0,0)"
+           id="text6346" />
+      </g>
+      <g
+         transform="translate(516,292)"
+         id="g6352">
+        <text
+           x="0"
+           y="0"
+           text-anchor="middle"
+           dominant-baseline="text-before-edge"
+           transform="translate(0,0)"
+           id="text6350" />
+      </g>
+      <g
+         transform="translate(440,396)"
+         id="g6356">
+        <text
+           x="0"
+           y="0"
+           text-anchor="middle"
+           dominant-baseline="text-before-edge"
+           transform="translate(0,0)"
+           id="text6354" />
+      </g>
+      <g
+         transform="translate(478,292)"
+         id="g6360">
+        <text
+           x="0"
+           y="0"
+           text-anchor="middle"
+           dominant-baseline="text-before-edge"
+           transform="translate(0,0)"
+           id="text6358" />
+      </g>
+      <g
+         transform="translate(421,208)"
+         id="g6364">
+        <text
+           x="0"
+           y="0"
+           text-anchor="middle"
+           dominant-baseline="text-before-edge"
+           transform="translate(0,0)"
+           id="text6362" />
+      </g>
+      <g
+         transform="translate(363,292)"
+         id="g6368">
+        <text
+           x="0"
+           y="0"
+           text-anchor="middle"
+           dominant-baseline="text-before-edge"
+           transform="translate(0,0)"
+           id="text6366" />
+      </g>
+    </g>
+    <g
+       id="axis">
+      <g
+         transform="translate(0,500)"
+         fill="none"
+         font-size="10"
+         font-family="sans-serif"
+         text-anchor="middle"
+         id="g6429">
+        <path
+           class="domain"
+           stroke="currentColor"
+           d="M0.5,6V0.5H765.5V6"
+           id="path6371" />
+        <g
+           class="tick"
+           opacity="1"
+           transform="translate(0.5,0)"
+           id="g6377">
+          <line
+             stroke="currentColor"
+             y2="6"
+             id="line6373" />
+          <text
+             fill="currentColor"
+             y="9"
+             dy="0.71em"
+             id="text6375">4.0</text>
+        </g>
+        <g
+           class="tick"
+           opacity="1"
+           transform="translate(96.5,0)"
+           id="g6383">
+          <line
+             stroke="currentColor"
+             y2="6"
+             id="line6379" />
+          <text
+             fill="currentColor"
+             y="9"
+             dy="0.71em"
+             id="text6381">4.5</text>
+        </g>
+        <g
+           class="tick"
+           opacity="1"
+           transform="translate(191.5,0)"
+           id="g6389">
+          <line
+             stroke="currentColor"
+             y2="6"
+             id="line6385" />
+          <text
+             fill="currentColor"
+             y="9"
+             dy="0.71em"
+             id="text6387">5.0</text>
+        </g>
+        <g
+           class="tick"
+           opacity="1"
+           transform="translate(287.5,0)"
+           id="g6395">
+          <line
+             stroke="currentColor"
+             y2="6"
+             id="line6391" />
+          <text
+             fill="currentColor"
+             y="9"
+             dy="0.71em"
+             id="text6393">5.5</text>
+        </g>
+        <g
+           class="tick"
+           opacity="1"
+           transform="translate(383.5,0)"
+           id="g6401">
+          <line
+             stroke="currentColor"
+             y2="6"
+             id="line6397" />
+          <text
+             fill="currentColor"
+             y="9"
+             dy="0.71em"
+             id="text6399">6.0</text>
+        </g>
+        <g
+           class="tick"
+           opacity="1"
+           transform="translate(478.5,0)"
+           id="g6407">
+          <line
+             stroke="currentColor"
+             y2="6"
+             id="line6403" />
+          <text
+             fill="currentColor"
+             y="9"
+             dy="0.71em"
+             id="text6405">6.5</text>
+        </g>
+        <g
+           class="tick"
+           opacity="1"
+           transform="translate(574.5,0)"
+           id="g6413">
+          <line
+             stroke="currentColor"
+             y2="6"
+             id="line6409" />
+          <text
+             fill="currentColor"
+             y="9"
+             dy="0.71em"
+             id="text6411">7.0</text>
+        </g>
+        <g
+           class="tick"
+           opacity="1"
+           transform="translate(669.5,0)"
+           id="g6419">
+          <line
+             stroke="currentColor"
+             y2="6"
+             id="line6415" />
+          <text
+             fill="currentColor"
+             y="9"
+             dy="0.71em"
+             id="text6417">7.5</text>
+        </g>
+        <g
+           class="tick"
+           opacity="1"
+           transform="translate(765.5,0)"
+           id="g6425">
+          <line
+             stroke="currentColor"
+             y2="6"
+             id="line6421" />
+          <text
+             fill="currentColor"
+             y="9"
+             dy="0.71em"
+             id="text6423">8.0</text>
+        </g>
+        <text
+           x="765"
+           dy="-5"
+           text-anchor="end"
+           style="font-family: Arial, sans-serif; font-size: 12px; fill: rgb(123, 123, 123); font-weight: bold;"
+           id="text6427">Sepal Length (cm)</text>
+      </g>
+      <g
+         fill="none"
+         font-size="10"
+         font-family="sans-serif"
+         text-anchor="end"
+         id="g6513">
+        <path
+           class="domain"
+           stroke="currentColor"
+           d="M-6,500.5H0.5V0.5H-6"
+           id="path6431" />
+        <g
+           class="tick"
+           opacity="1"
+           transform="translate(0,500.5)"
+           id="g6437">
+          <line
+             stroke="currentColor"
+             x2="-6"
+             id="line6433" />
+          <text
+             fill="currentColor"
+             x="-9"
+             dy="0.32em"
+             id="text6435">2.0</text>
+        </g>
+        <g
+           class="tick"
+           opacity="1"
+           transform="translate(0,458.5)"
+           id="g6443">
+          <line
+             stroke="currentColor"
+             x2="-6"
+             id="line6439" />
+          <text
+             fill="currentColor"
+             x="-9"
+             dy="0.32em"
+             id="text6441">2.2</text>
+        </g>
+        <g
+           class="tick"
+           opacity="1"
+           transform="translate(0,417.5)"
+           id="g6449">
+          <line
+             stroke="currentColor"
+             x2="-6"
+             id="line6445" />
+          <text
+             fill="currentColor"
+             x="-9"
+             dy="0.32em"
+             id="text6447">2.4</text>
+        </g>
+        <g
+           class="tick"
+           opacity="1"
+           transform="translate(0,375.5)"
+           id="g6455">
+          <line
+             stroke="currentColor"
+             x2="-6"
+             id="line6451" />
+          <text
+             fill="currentColor"
+             x="-9"
+             dy="0.32em"
+             id="text6453">2.6</text>
+        </g>
+        <g
+           class="tick"
+           opacity="1"
+           transform="translate(0,333.5)"
+           id="g6461">
+          <line
+             stroke="currentColor"
+             x2="-6"
+             id="line6457" />
+          <text
+             fill="currentColor"
+             x="-9"
+             dy="0.32em"
+             id="text6459">2.8</text>
+        </g>
+        <g
+           class="tick"
+           opacity="1"
+           transform="translate(0,292.5)"
+           id="g6467">
+          <line
+             stroke="currentColor"
+             x2="-6"
+             id="line6463" />
+          <text
+             fill="currentColor"
+             x="-9"
+             dy="0.32em"
+             id="text6465">3.0</text>
+        </g>
+        <g
+           class="tick"
+           opacity="1"
+           transform="translate(0,250.5)"
+           id="g6473">
+          <line
+             stroke="currentColor"
+             x2="-6"
+             id="line6469" />
+          <text
+             fill="currentColor"
+             x="-9"
+             dy="0.32em"
+             id="text6471">3.2</text>
+        </g>
+        <g
+           class="tick"
+           opacity="1"
+           transform="translate(0,208.5)"
+           id="g6479">
+          <line
+             stroke="currentColor"
+             x2="-6"
+             id="line6475" />
+          <text
+             fill="currentColor"
+             x="-9"
+             dy="0.32em"
+             id="text6477">3.4</text>
+        </g>
+        <g
+           class="tick"
+           opacity="1"
+           transform="translate(0,167.5)"
+           id="g6485">
+          <line
+             stroke="currentColor"
+             x2="-6"
+             id="line6481" />
+          <text
+             fill="currentColor"
+             x="-9"
+             dy="0.32em"
+             id="text6483">3.6</text>
+        </g>
+        <g
+           class="tick"
+           opacity="1"
+           transform="translate(0,125.5)"
+           id="g6491">
+          <line
+             stroke="currentColor"
+             x2="-6"
+             id="line6487" />
+          <text
+             fill="currentColor"
+             x="-9"
+             dy="0.32em"
+             id="text6489">3.8</text>
+        </g>
+        <g
+           class="tick"
+           opacity="1"
+           transform="translate(0,83.5)"
+           id="g6497">
+          <line
+             stroke="currentColor"
+             x2="-6"
+             id="line6493" />
+          <text
+             fill="currentColor"
+             x="-9"
+             dy="0.32em"
+             id="text6495">4.0</text>
+        </g>
+        <g
+           class="tick"
+           opacity="1"
+           transform="translate(0,42.5)"
+           id="g6503">
+          <line
+             stroke="currentColor"
+             x2="-6"
+             id="line6499" />
+          <text
+             fill="currentColor"
+             x="-9"
+             dy="0.32em"
+             id="text6501">4.2</text>
+        </g>
+        <g
+           class="tick"
+           opacity="1"
+           transform="translate(0,0.5)"
+           id="g6509">
+          <line
+             stroke="currentColor"
+             x2="-6"
+             id="line6505" />
+          <text
+             fill="currentColor"
+             x="-9"
+             dy="0.32em"
+             id="text6507">4.4</text>
+        </g>
+        <text
+           x="4"
+           text-anchor="start"
+           dominant-baseline="hanging"
+           style="font-family: Arial, sans-serif; font-size: 12px; fill: rgb(123, 123, 123); font-weight: bold;"
+           id="text6511">Sepal Width (cm)</text>
+      </g>
+    </g>
+  </g>
+  <g
+     id="legend"
+     transform="translate(867,30)">
+    <g
+       transform="translate(5)"
+       id="g6549">
+      <g
+         class="legendColor"
+         id="g6547">
+        <g
+           class="legendCells"
+           transform="translate(0,16)"
+           id="g6541">
+          <g
+             class="cell"
+             id="g6523">
+            <rect
+               class="swatch"
+               height="15"
+               width="15"
+               style="fill:#1f77b4"
+               id="rect6517"
+               x="0"
+               y="0" />
+            <text
+               class="label"
+               transform="translate(20,12.5)"
+               font-family="Arial, sans-serif"
+               font-size="10px"
+               id="text6521"><tspan
+                 x="0"
+                 dy="0em"
+                 id="tspan6519">Iris Setosa</tspan></text>
+          </g>
+          <g
+             class="cell"
+             transform="translate(0,21)"
+             id="g6531">
+            <rect
+               class="swatch"
+               height="15"
+               width="15"
+               style="fill:#ff7f0e"
+               id="rect6525"
+               x="0"
+               y="0" />
+            <text
+               class="label"
+               transform="translate(20,12.5)"
+               font-family="Arial, sans-serif"
+               font-size="10px"
+               id="text6529"><tspan
+                 x="0"
+                 dy="0em"
+                 id="tspan6527">Iris Versicolor</tspan></text>
+          </g>
+          <g
+             class="cell"
+             transform="translate(0,42)"
+             id="g6539">
+            <rect
+               class="swatch"
+               height="15"
+               width="15"
+               style="fill:#2ca02c"
+               id="rect6533"
+               x="0"
+               y="0" />
+            <text
+               class="label"
+               transform="translate(20,12.5)"
+               font-family="Arial, sans-serif"
+               font-size="10px"
+               id="text6537"><tspan
+                 x="0"
+                 dy="0em"
+                 id="tspan6535">Iris Virginica</tspan></text>
+          </g>
+        </g>
+        <text
+           class="legendTitle"
+           font-family="Arial, sans-serif"
+           font-size="12px"
+           font-weight="bold"
+           id="text6545"><tspan
+             x="0"
+             dy="0em"
+             id="tspan6543">Species</tspan></text>
+      </g>
+    </g>
+  </g>
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-weight:normal;font-size:10.6667px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none"
+     x="13.82021"
+     y="582.85004"
+     id="text6560"><tspan
+       sodipodi:role="line"
+       id="tspan6558"
+       x="13.82021"
+       y="582.85004"
+       style="font-size:10.6667px"><tspan
+   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:10.6667px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold'"
+   id="tspan6562">DADES:</tspan> Iris flowers [https://app.rawgraphs.io/]</tspan></text>
+</svg>
